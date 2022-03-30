@@ -1,1 +1,1 @@
-# HistoryAPI
+# WikiHistoryAPI
