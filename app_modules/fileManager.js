@@ -12,12 +12,4 @@ const write = (fileName,content)=>{
 
 }
 
-const read = (fileName)=>{
-    fs.readFileSync(`./data/${fileName}`,"utf-8",(error,data)=>{
-        if (error){
-            console.log(error)
-        }
-    })
-}
-
-module.exports = {write,read}
+module.exports = {write,}

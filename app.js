@@ -1,14 +1,25 @@
-const fs = require("fs");
 const {scrape,scrapeAll} = require('./app_modules/scraper.js')
-const {write} = require("./app_modules/fileManager")
+const {readYear} = require("./app_modules/read.js")
+const http = require("http")
 
-const history = [];
-let years=[];
+const server = http.createServer();
+server.on("request", async (req,res)=>{
+    if (req.url.includes("fav")){
+        res.end();
+        return;
+    }
+    res.writeHeader(200,{'Access-Control-Allow-Origin':'*'})
+    const startIndex = req.url.indexOf("=");
+    const year = req.url.slice(startIndex+1);
+    console.log(year);
+    const obj = await readYear(year)
+    let result = JSON.parse(obj);
+    result = JSON.stringify(result)
+    res.end(result)
 
+})
 
-scrapeAll(1000,1000)
-
-
+server.listen(3000)
 
 
 
