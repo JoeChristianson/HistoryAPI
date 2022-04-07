@@ -1,8 +1,8 @@
-const eventContainer = $("#event-container");
-const optionsCont = $("#options")
-const btn0=$("#btn-0")
-const btn1=$("#btn-1")
-const btn2=$("#btn-2")
+// const eventContainer = $("#event-container");
+// const optionsCont = $("#options")
+// const btn0=$("#btn-0")
+// const btn1=$("#btn-1")
+// const btn2=$("#btn-2")
 let year;
 let correctIndex;
 let gap = 300;
@@ -30,7 +30,7 @@ const renderEvent = async ()=>{
         loadOptions(year);
 }
 
-renderEvent()
+// renderEvent()
 
 function loadOptions(year){
     const options = [null,null,null];
