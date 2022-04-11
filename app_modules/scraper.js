@@ -4,7 +4,11 @@ const {eFilterer} = require("./event.js")
 const {bFilterer} = require("./birth.js")
 const {dFilterer} = require("./death.js")
 async function scrape(year){
-    const browser = await puppeteer.launch({});
+    // const browser = await puppeteer.launch({});
+    const browser = await puppeteer.launch({
+        headless: true,
+        args: ['--no-sandbox','--disable-setuid-sandbox']
+      })
     const page = await browser.newPage();
 
     await page.goto(`https://en.wikipedia.org/wiki/AD_${year}`)
