@@ -22,7 +22,6 @@ function findEntities(links){
     let res = []
     for (let link of links){
         let  ent = findBetweenSp(link,"wiki/",'\"')[0]
-        console.log("ent is " + ent)
         if(!ent) continue;
         ent = ent.replace('wiki/',"").replace('\"','')
         !ent.includes("Wikipedia") && res.push(ent)
