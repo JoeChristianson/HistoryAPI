@@ -43,7 +43,6 @@ async function scrape(year){
     }
     // write(`${year}.json`,JSON.stringify(yearObj,null,2));
     browser.close();
-    console.log(yearObj)
     return yearObj;
 }
 
