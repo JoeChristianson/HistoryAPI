@@ -41,11 +41,9 @@ async function scrape(year){
         births:births,
         deaths:deaths,
     }
-    write(`${year}.json`,JSON.stringify(yearObj,null,2));
+    // write(`${year}.json`,JSON.stringify(yearObj,null,2));
     browser.close();
-    console.log(yearObj.events[1]);
-    console.log(yearObj.births[1])
-    console.log(yearObj.deaths[1])
+    console.log(yearObj)
     return yearObj;
 }
 
