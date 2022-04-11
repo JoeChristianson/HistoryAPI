@@ -46,6 +46,7 @@ async function scrape(year){
     console.log(yearObj.events[1]);
     console.log(yearObj.births[1])
     console.log(yearObj.deaths[1])
+    return yearObj;
 }
 
 async function scrapeAll(startYear,endYear){
