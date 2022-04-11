@@ -47,7 +47,7 @@ server.on("request", async (req,res)=>{
     console.log("THE URL IS:" + req.url)
     const startIndex = req.url.indexOf("=");
     const year = req.url.slice(startIndex+1);
-    res.end(year)
+    // res.end(year)
     console.log(year);
     const obj = await scrape(year);
     result = JSON.stringify(obj)
