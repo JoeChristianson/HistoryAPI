@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+s<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -15,8 +15,13 @@
   </head>
   <body>
     <header>
-      <div id="high-score">H: 0</div>
-      <h1>Guess the Year</h1>
+      <div id="high-score-div">H: <span id="high-score">0</span></div>
+      <div class="header-center">
+        <div id="score-bar">
+          <p id="points-line">Points: <span id="points">0</span></p>
+          <p id="time-line">Time: <span id="time">20</span></p>
+        </div>
+      </div>
       <div id="lives">&#9829;&#9829;&#9829;</div>
     </header>
     <main>
@@ -31,6 +36,13 @@
         <button id="btn-1">1923</button>
         <button id="btn-2">1986</button>
       </div>
+      <div id="prior">
+      </div>
+      <section id="game-end" class="game-end hide">
+        <h1>Game Over</h1>
+        <h3>You scored: <span id="final-score"></span> points</h3>
+        <button id="play-again-btn">Play Again?</button>
+      </section>
     </main>
     <footer></footer>
   </body>

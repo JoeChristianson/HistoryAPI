@@ -30,24 +30,8 @@ async function scrape(year){
         }
 
     }
-    // for (let i = 0;i<listItems.length;i++){
-    //     if(listItems[i].includes("Events")){
-    //         eventsIndex = i;
-    //     }
-    //     if(listItems[i].includes("Births")){
-    //         birthsIndex = i;
-    //     }
-    //     if(listItems[i].includes("Deaths")){
-    //         deathsIndex = i;
-    //     }
-    //     if(listItems[i].includes("References")){
-    //         referencesIndex = i;
-    //     }
-
-    // }
-
     let events = listItemsFull.slice(eventsIndex+1,birthsIndex);
-    events = eFilterer(events);
+    events = eFilterer(events,year);
     let births = listItemsFull.slice(birthsIndex+1,deathsIndex);
     births = bFilterer(births)
     let deaths = listItemsFull.slice(deathsIndex+1,referencesIndex);

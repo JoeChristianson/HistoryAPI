@@ -6,6 +6,7 @@
     --button-box-shadow:hsl(240deg 67% 13%);
     --button-bg:hsl(240deg 67% 98%);
     --button-bg:hsl(80deg 67% 98%);
+    --score-bar-bg:hsl(60deg, 67%, 35%);
 }
 
 body{
@@ -35,8 +36,19 @@ header>div:last-child{
 h1{
     text-align: center;
     margin: 0;
-    align-self: center;
-    font-size:4rem;
+    /* align-self: center; */
+    font-size:2.5rem;
+    padding: 20px; 
+}
+
+#score-bar{
+    background-color: var(--score-bar-bg);
+    border-radius: 10px;
+}
+
+header p{
+    text-align: center;
+    margin:0;
 }
 
 main{
@@ -46,6 +58,7 @@ main{
     flex-direction: column;
     height: 70vh;
     background-color: var(--light-bg);
+    position: relative;
 }
 
 article{
@@ -53,10 +66,14 @@ article{
     line-height: 1.5;
     font-size: 1.5rem;
     text-align: justify;
+    max-height: 600px;
+    overflow: hidden;
+    height: 75%;
+    padding-top: 20px;
 }
 
 #options{
-    margin-top: 40px;
+    height: 25%;
 }
 
 main button{
@@ -76,4 +93,17 @@ main button:hover{
 footer{
     height: 10vh;
     background-color: var(--dark-bg)
+}
+
+.hide{
+    display: none;
+}
+
+#prior{
+    position: absolute;
+    bottom: 0px;
+    left:50%;
+    background-color: var(--light-bg);
+    transform: translateX(-50%) translateY(50%);
+    padding: 20px;
 }

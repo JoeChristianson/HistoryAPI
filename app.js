@@ -1,6 +1,7 @@
 const {scrape,scrapeAll} = require('./app_modules/scraper.js')
 const {readYear} = require("./app_modules/read.js")
 const http = require("http")
+const port = process.env.PORT || 5000;
 
 const server = http.createServer();
 server.on("request", async (req,res)=>{
@@ -19,8 +20,8 @@ server.on("request", async (req,res)=>{
 
 })
 
-server.listen(3000)
-
+server.listen(port)
+// scrapeAll(1900,1910);
 
 
 

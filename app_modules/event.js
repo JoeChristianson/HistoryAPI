@@ -1,15 +1,33 @@
+const { networkConditions } = require("puppeteer");
 const {types,checkTypes} = require("./eventTypes");
+const months =["January","February","March"];
+
 
 class Event{
-    constructor(text,html){
+    constructor(text,html,year){
+        this.year=year;
         this.text=text;
         this.length =text.length;
         this.references= findBetween(text,"[","]");
         this.citationNeeded=this.references.includes("citation needed");
         this.html = html;
-        this.links = findBetweenSp(html,"<a",">")
-        this.types = [];
+        this.links = findBetweenSp(html,"<a",">");
+        this.entities = findEntities(this.links);
+        this.types = checkTypes(text);
+        this.date = checkDate(text.split(":")[0])
     }
+}
+
+function findEntities(links){
+    let res = []
+    for (let link of links){
+        let  ent = findBetweenSp(link,"wiki/",'\"')[0]
+        console.log("ent is " + ent)
+        if(!ent) continue;
+        ent = ent.replace('wiki/',"").replace('\"','')
+        !ent.includes("Wikipedia") && res.push(ent)
+    }
+    return res;
 }
 
 function findBetween(text,openChar,closeChar){
@@ -58,44 +76,30 @@ function findBetweenSp(text,openingString,closingString){
     return arr;
 }
 
-// function findBetweenSp(text,openChars,closeChars){
-//     const references = []
-//     let reference=""
-//     inBrackets = false;
-//     let opening = "";
-//     let closing = ""
-//     for(let i = 0;i<text.length;i++){
-//         if (closing === closeChars&&inBrackets){
-//             references.push(reference);
-//             inBrackets = false;
-//             reference="";
-//             closing=""
-//         }
-//         else if(inBrackets){
-//             reference+=text[i];
-
-//         }
-//         else if(text[i]===openChars[opening.length]){
-//             opening+=text[i];
-//         }
-//     }
-// }
-
 const filter = {
     minLength:"Patan, Chaulukya Dynasty (India) – 100,000[2]".length,
     barred:[""],
 }
 
-function eFilterer(events){
+function eFilterer(events,year){
     const filtered = [];
     for( let event of events){
         if (event[0].length<=filter.minLength){
             continue;
         }
-        else filtered.push(new Event(event[0],event[1]))
+        else filtered.push(new Event(event[0],event[1],year))
     }
     return filtered
 }
 
 module.exports = {filter,eFilterer}
 
+function checkDate(text){
+    let res = null;
+    for(let month of months){
+        if (text.includes(month)){
+            res = text;
+        }
+    }
+    return res;
+}

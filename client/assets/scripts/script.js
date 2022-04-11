@@ -1,13 +1,31 @@
-// const eventContainer = $("#event-container");
-// const optionsCont = $("#options")
-// const btn0=$("#btn-0")
-// const btn1=$("#btn-1")
-// const btn2=$("#btn-2")
-let year;
-let correctIndex;
-let gap = 300;
-const minYear = 1000;
-const maxYear = 1999;
+const highScoreSpan = $("#high-score");
+const eventContainer = $("#event-container");
+const optionsCont = $("#options")
+const btn0=$("#btn-0")
+const btn1=$("#btn-1")
+const btn2=$("#btn-2")
+const prior=$("#prior")
+const livesEl=$("#lives")
+const pointsEl = $("#points")
+const scoreBar = $("#score-bar");
+const gameEndCont = $("#game-end")
+const finalScoreSpan = $("#final-score")
+const playAgainBtn = $("#play-again-btn")
+let game;
+let highScore = localStorage.getItem("history-game-high-score-472022") || 0;
+highScoreSpan.text(highScore)
+
+class Game{
+    constructor(){
+        this.points=0;
+        this.lives=3;
+        this.correctIndex=null;
+        this.gap = 300;
+        this.minYear = 1000;
+        this.maxYear = 1999;
+    }
+}
+
 
 const getData = async (year)=>{
     const res = await fetch(`http://localhost:3000/?year=${year}`)
@@ -15,34 +33,43 @@ const getData = async (year)=>{
     return data
 }
 
+const startGame = ()=>{
+    game = new Game();
+    livesEl.text(wr("♥",game.lives))
+    gameEndCont.addClass("hide")
+    scoreBar.removeClass("hide");
+    eventContainer.removeClass("hide");
+    optionsCont.removeClass("hide")
+    renderEvent()
+}
+
 const renderEvent = async ()=>{
-    eventContainer.html("")
-    year = Math.floor(Math.random()*1000)+1000;
-    const data = await getData(year);
+    eventContainer.html("");
+    game.year = Math.floor(Math.random()*1000)+1000;
+    const data = await getData(game.year);
     const events = data.events;
     let randomEvent = data.events[Math.floor(Math.random()*events.length)]
-    console.log("this is the random event:" + randomEvent);
     if (!randomEvent) {
         renderEvent();
         return
     }
         eventContainer.text(removeBetween(randomEvent,"[","]"));
-        loadOptions(year);
+        loadOptions(game.year);
 }
 
-// renderEvent()
+startGame()
 
 function loadOptions(year){
     const options = [null,null,null];
-    correctIndex = Math.floor(Math.random()*3);
-    options[correctIndex]=year;
+    game.correctIndex = Math.floor(Math.random()*3);
+    options[game.correctIndex]=game.year;
     for (let i=0;i<3;i++){
         if (!options[i]){
-            options[i]=year+(i-correctIndex)*gap;
+            options[i]=game.year+(i-game.correctIndex)*game.gap;
         }
     }
-    if(options[0]<minYear||options[2]>maxYear){
-        loadOptions(year)
+    if(options[0]<game.minYear||options[2]>game.maxYear){
+        loadOptions(game.year)
         return
     }
     btn0.text(options[0])
@@ -60,9 +87,7 @@ function removeBetween(text,openChar,closeChar){
     console.log(references)
     references.forEach(ref=>{
         text = text.replace(openChar+ref+closeChar,"")
-        console.log(text)
     })
-    console.log(text)
     return text;
 }
 
@@ -85,16 +110,59 @@ function findBetween(text,openChar,closeChar){
 }
 
 optionsCont.on("click","button",(event)=>{
-    event.target.textContent==year?correct():wrong();
+    event.target.textContent==game.year?correct():wrong();
 })
 
 function correct(){
-    console.log("correct")
+    console.log(game.points)
+    game.points++;
+    console.log(game.points)
+    pointsEl.text(game.points)
+    prior.html(`
+    <h3>Correct!</h3>`)
+    setTimeout(()=>{
+        prior.html("");
+    },3000)
+    game.gap= Math.ceil(game.gap*0.9);
     renderEvent()
-    
 }
 
 function wrong(){
     console.log("wrong")
+    prior.html(`
+    <h3>Wrong! The correct year is ${game.year}</h3>`)
+    setTimeout(()=>{
+        prior.html("");
+    },5000)
+    game.lives--;
+    livesEl.text(wr("♥",game.lives))
+    if (game.lives<0){
+        lose();
+        return
+    }
     renderEvent()
 }
+
+function lose(){
+        scoreBar.addClass("hide");
+        eventContainer.addClass("hide")
+        optionsCont.addClass("hide")
+        finalScoreSpan.text(game.points);
+        gameEndCont.removeClass("hide");
+        if(game.points>highScore){
+            highScore=game.points;
+            localStorage.setItem("history-game-high-score-472022",highScore)
+            highScoreSpan.text(highScore)
+        }
+}
+
+function wr(char,iterations){
+    let str = "";
+    for(let i = 0;i<iterations;i++){
+        str+=char
+    }
+    return str;
+}
+
+playAgainBtn.on("click",startGame);
+
