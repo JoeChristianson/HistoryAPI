@@ -1,0 +1,291 @@
+{
+  "events": [
+    {
+      "year": 558,
+      "text": "May 7 – In Constantinople, the dome of the Hagia Sophia collapses due to an earthquake. Emperor Justinian I orders the dome to be rebuilt.",
+      "length": 138,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/May_7\" title=\"May 7\">May 7</a> – In <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a>, the <a href=\"/wiki/Dome\" title=\"Dome\">dome</a> of the <a href=\"/wiki/Hagia_Sophia\" title=\"Hagia Sophia\">Hagia Sophia</a> collapses due to an <a href=\"/wiki/Earthquake\" title=\"Earthquake\">earthquake</a>. Emperor <a href=\"/wiki/Justinian_I\" title=\"Justinian I\">Justinian I</a> orders the dome to be rebuilt.",
+      "links": [
+        "<a href=\"/wiki/May_7\" title=\"May 7\">",
+        "<a href=\"/wiki/Constantinople\" title=\"Constantinople\">",
+        "<a href=\"/wiki/Dome\" title=\"Dome\">",
+        "<a href=\"/wiki/Hagia_Sophia\" title=\"Hagia Sophia\">",
+        "<a href=\"/wiki/Earthquake\" title=\"Earthquake\">",
+        "<a href=\"/wiki/Justinian_I\" title=\"Justinian I\">"
+      ],
+      "entities": [
+        "May_7",
+        "Constantinople",
+        "Dome",
+        "Hagia_Sophia",
+        "Earthquake",
+        "Justinian_I"
+      ],
+      "types": [
+        "royal",
+        "construction",
+        "disaster"
+      ],
+      "date": null
+    },
+    {
+      "year": 558,
+      "text": "The Avars and the Slavs occupy the Hungarian Plain on the Balkans. The threat of Avar domination prompts the Lombards to migrate to Italy.[1]",
+      "length": 141,
+      "references": [
+        "1"
+      ],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Avars_(Carpathians)\" class=\"mw-redirect\" title=\"Avars (Carpathians)\">Avars</a> and the <a href=\"/wiki/Slavic_peoples\" class=\"mw-redirect\" title=\"Slavic peoples\">Slavs</a> occupy the <a href=\"/wiki/Great_Hungarian_Plain\" title=\"Great Hungarian Plain\">Hungarian Plain</a> on the <a href=\"/wiki/Balkans\" title=\"Balkans\">Balkans</a>. The threat of Avar domination prompts the <a href=\"/wiki/Lombards\" title=\"Lombards\">Lombards</a> to <a href=\"/wiki/Human_migration\" title=\"Human migration\">migrate</a> to <a href=\"/wiki/Italy\" title=\"Italy\">Italy</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\">[1]</a></sup>",
+      "links": [
+        "<a href=\"/wiki/Avars_(Carpathians)\" class=\"mw-redirect\" title=\"Avars (Carpathians)\">",
+        "<a href=\"/wiki/Slavic_peoples\" class=\"mw-redirect\" title=\"Slavic peoples\">",
+        "<a href=\"/wiki/Great_Hungarian_Plain\" title=\"Great Hungarian Plain\">",
+        "<a href=\"/wiki/Balkans\" title=\"Balkans\">",
+        "<a href=\"/wiki/Lombards\" title=\"Lombards\">",
+        "<a href=\"/wiki/Human_migration\" title=\"Human migration\">",
+        "<a href=\"/wiki/Italy\" title=\"Italy\">",
+        "<a href=\"#cite_note-1\">"
+      ],
+      "entities": [
+        "Avars_(Carpathians)",
+        "Slavic_peoples",
+        "Great_Hungarian_Plain",
+        "Balkans",
+        "Lombards",
+        "Human_migration",
+        "Italy"
+      ],
+      "types": [],
+      "date": null
+    },
+    {
+      "year": 558,
+      "text": "December 13 – King Chlothar I reunites the Frankish Kingdom after his brother Childebert I dies, becoming sole ruler of the Franks.",
+      "length": 131,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/December_13\" title=\"December 13\">December 13</a> – King <a href=\"/wiki/Chlothar_I\" title=\"Chlothar I\">Chlothar I</a> reunites the <a href=\"/wiki/Francia\" title=\"Francia\">Frankish Kingdom</a> after his brother <a href=\"/wiki/Childebert_I\" title=\"Childebert I\">Childebert I</a> dies, becoming sole ruler of the <a href=\"/wiki/Franks\" title=\"Franks\">Franks</a>.",
+      "links": [
+        "<a href=\"/wiki/December_13\" title=\"December 13\">",
+        "<a href=\"/wiki/Chlothar_I\" title=\"Chlothar I\">",
+        "<a href=\"/wiki/Francia\" title=\"Francia\">",
+        "<a href=\"/wiki/Childebert_I\" title=\"Childebert I\">",
+        "<a href=\"/wiki/Franks\" title=\"Franks\">"
+      ],
+      "entities": [
+        "December_13",
+        "Chlothar_I",
+        "Francia",
+        "Childebert_I",
+        "Franks"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 558,
+      "text": "December 23[citation needed] – Chlothar I is crowned King of the Franks.",
+      "length": 72,
+      "references": [
+        "citation needed"
+      ],
+      "citationNeeded": true,
+      "html": "<a href=\"/wiki/December_23\" title=\"December 23\">December 23</a><sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (December 2020)\">citation needed</span></a></i>]</sup> – <a href=\"/wiki/Chlothar_I\" title=\"Chlothar I\">Chlothar I</a> is crowned <a href=\"/wiki/List_of_Frankish_kings\" title=\"List of Frankish kings\">King of the Franks</a>.",
+      "links": [
+        "<a href=\"/wiki/December_23\" title=\"December 23\">",
+        "<a href=\"/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\">",
+        "<a href=\"/wiki/Chlothar_I\" title=\"Chlothar I\">",
+        "<a href=\"/wiki/List_of_Frankish_kings\" title=\"List of Frankish kings\">"
+      ],
+      "entities": [
+        "December_23",
+        "Chlothar_I",
+        "List_of_Frankish_kings"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 558,
+      "text": "Conall mac Comgaill becomes king of Dál Riata, a Gaelic overkingdom on the western coast of Scotland.",
+      "length": 101,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Conall_mac_Comgaill\" title=\"Conall mac Comgaill\">Conall mac Comgaill</a> becomes king of <a href=\"/wiki/D%C3%A1l_Riata\" title=\"Dál Riata\">Dál Riata</a>, a <a href=\"/wiki/Gaels\" title=\"Gaels\">Gaelic</a> overkingdom on the western coast of <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>.",
+      "links": [
+        "<a href=\"/wiki/Conall_mac_Comgaill\" title=\"Conall mac Comgaill\">",
+        "<a href=\"/wiki/D%C3%A1l_Riata\" title=\"Dál Riata\">",
+        "<a href=\"/wiki/Gaels\" title=\"Gaels\">",
+        "<a href=\"/wiki/Scotland\" title=\"Scotland\">"
+      ],
+      "entities": [
+        "Conall_mac_Comgaill",
+        "D%C3%A1l_Riata",
+        "Gaels",
+        "Scotland"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 558,
+      "text": "Istämi, ruler of the Western Turkic Khaganate, establishes diplomatic relations with the Byzantine Empire.",
+      "length": 106,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Ist%C3%A4mi\" title=\"Istämi\">Istämi</a>, ruler of the <a href=\"/wiki/Western_Turkic_Khaganate\" title=\"Western Turkic Khaganate\">Western Turkic Khaganate</a>, establishes <a href=\"/wiki/Diplomacy\" title=\"Diplomacy\">diplomatic</a> relations with the <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine Empire</a>.",
+      "links": [
+        "<a href=\"/wiki/Ist%C3%A4mi\" title=\"Istämi\">",
+        "<a href=\"/wiki/Western_Turkic_Khaganate\" title=\"Western Turkic Khaganate\">",
+        "<a href=\"/wiki/Diplomacy\" title=\"Diplomacy\">",
+        "<a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">"
+      ],
+      "entities": [
+        "Ist%C3%A4mi",
+        "Western_Turkic_Khaganate",
+        "Diplomacy",
+        "Byzantine_Empire"
+      ],
+      "types": [
+        "royal",
+        "establishments"
+      ],
+      "date": null
+    },
+    {
+      "year": 558,
+      "text": "December 23 – The Abbey of Saint-Germain-des-Prés is dedicated by Germain, bishop of Paris.",
+      "length": 91,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/December_23\" title=\"December 23\">December 23</a> – The <a href=\"/wiki/Abbey_of_Saint-Germain-des-Pr%C3%A9s\" class=\"mw-redirect\" title=\"Abbey of Saint-Germain-des-Prés\">Abbey of Saint-Germain-des-Prés</a> is dedicated by <a href=\"/wiki/Germain_of_Paris\" title=\"Germain of Paris\">Germain</a>, <a href=\"/wiki/Roman_Catholic_Archdiocese_of_Paris\" title=\"Roman Catholic Archdiocese of Paris\">bishop of Paris</a>.",
+      "links": [
+        "<a href=\"/wiki/December_23\" title=\"December 23\">",
+        "<a href=\"/wiki/Abbey_of_Saint-Germain-des-Pr%C3%A9s\" class=\"mw-redirect\" title=\"Abbey of Saint-Germain-des-Prés\">",
+        "<a href=\"/wiki/Germain_of_Paris\" title=\"Germain of Paris\">",
+        "<a href=\"/wiki/Roman_Catholic_Archdiocese_of_Paris\" title=\"Roman Catholic Archdiocese of Paris\">"
+      ],
+      "entities": [
+        "December_23",
+        "Abbey_of_Saint-Germain-des-Pr%C3%A9s",
+        "Germain_of_Paris",
+        "Roman_Catholic_Archdiocese_of_Paris"
+      ],
+      "types": [
+        "religious"
+      ],
+      "date": null
+    },
+    {
+      "year": 558,
+      "text": "The Bangor Abbey is founded by the Irish abbot Comgall in Northern Ireland (approximate date).",
+      "length": 94,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Bangor_Abbey\" title=\"Bangor Abbey\">Bangor Abbey</a> is founded by the Irish <a href=\"/wiki/Abbot\" title=\"Abbot\">abbot</a> <a href=\"/wiki/Comgall\" title=\"Comgall\">Comgall</a> in <a href=\"/wiki/Northern_Ireland\" title=\"Northern Ireland\">Northern Ireland</a> (approximate date).",
+      "links": [
+        "<a href=\"/wiki/Bangor_Abbey\" title=\"Bangor Abbey\">",
+        "<a href=\"/wiki/Abbot\" title=\"Abbot\">",
+        "<a href=\"/wiki/Comgall\" title=\"Comgall\">",
+        "<a href=\"/wiki/Northern_Ireland\" title=\"Northern Ireland\">"
+      ],
+      "entities": [
+        "Bangor_Abbey",
+        "Abbot",
+        "Comgall",
+        "Northern_Ireland"
+      ],
+      "types": [
+        "establishments"
+      ],
+      "date": null
+    }
+  ],
+  "births": [
+    {
+      "text": "Gao Yan, prince of Northern Qi (d. 571)",
+      "length": 39,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Gao_Yan_(Northern_Qi_prince)\" title=\"Gao Yan (Northern Qi prince)\">Gao Yan</a>, prince of <a href=\"/wiki/Northern_Qi\" title=\"Northern Qi\">Northern Qi</a> (d. <a href=\"/wiki/571\" title=\"571\">571</a>)",
+      "name": "Gao Yan"
+    },
+    {
+      "text": "Yu Shinan, calligrapher and official (d. 638)",
+      "length": 45,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Yu_Shinan\" title=\"Yu Shinan\">Yu Shinan</a>, <a href=\"/wiki/Calligraphy\" title=\"Calligraphy\">calligrapher</a> and official (d. <a href=\"/wiki/638\" title=\"638\">638</a>)",
+      "name": "Yu Shinan"
+    }
+  ],
+  "deaths": [
+    {
+      "text": "May 1 – Marcouf, missionary and saint",
+      "length": 37,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/May_1\" title=\"May 1\">May 1</a> – <a href=\"/wiki/Saint_Marcouf\" class=\"mw-redirect\" title=\"Saint Marcouf\">Marcouf</a>, <a href=\"/wiki/Missionary\" title=\"Missionary\">missionary</a> and saint"
+    },
+    {
+      "text": "May 13 – John the Silent, bishop and saint",
+      "length": 42,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/May_13\" title=\"May 13\">May 13</a> – <a href=\"/wiki/John_the_Silent\" title=\"John the Silent\">John the Silent</a>, <a href=\"/wiki/Bishop\" title=\"Bishop\">bishop</a> and <a href=\"/wiki/Saint\" title=\"Saint\">saint</a>"
+    },
+    {
+      "text": "May 15 – Hilary of Galeata, Christian monk",
+      "length": 42,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/May_15\" title=\"May 15\">May 15</a> – <a href=\"/wiki/Hilary_of_Galeata\" title=\"Hilary of Galeata\">Hilary of Galeata</a>, Christian monk"
+    },
+    {
+      "text": "December 13 – Childebert I, king of the Franks[2]",
+      "length": 49,
+      "references": [
+        "2"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/December_13\" title=\"December 13\">December 13</a> – <a href=\"/wiki/Childebert_I\" title=\"Childebert I\">Childebert I</a>, king of the <a href=\"/wiki/Franks\" title=\"Franks\">Franks</a><sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup>"
+    },
+    {
+      "text": "Abraham of Kratia, Christian monk (approximate date)",
+      "length": 52,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Abraham_of_Kratia\" class=\"mw-redirect\" title=\"Abraham of Kratia\">Abraham of Kratia</a>, Christian <a href=\"/wiki/Monk\" title=\"Monk\">monk</a> (approximate date)"
+    },
+    {
+      "text": "Empress Dugu, Northern Zhou consort",
+      "length": 35,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Empress_Dugu_(Northern_Zhou)\" title=\"Empress Dugu (Northern Zhou)\">Empress Dugu</a>, <a href=\"/wiki/Northern_Zhou\" title=\"Northern Zhou\">Northern Zhou</a> consort"
+    },
+    {
+      "text": "Gabrán mac Domangairt, king of Dál Riata",
+      "length": 40,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Gabr%C3%A1n_mac_Domangairt\" title=\"Gabrán mac Domangairt\">Gabrán mac Domangairt</a>, king of <a href=\"/wiki/D%C3%A1l_Riata\" title=\"Dál Riata\">Dál Riata</a>"
+    },
+    {
+      "text": "Jing Di, emperor of the Liang Dynasty (b. 543)",
+      "length": 46,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Emperor_Jing_of_Liang\" title=\"Emperor Jing of Liang\">Jing Di</a>, emperor of the <a href=\"/wiki/Liang_Dynasty\" class=\"mw-redirect\" title=\"Liang Dynasty\">Liang Dynasty</a> (b. <a href=\"/wiki/543\" title=\"543\">543</a>)"
+    }
+  ]
+}

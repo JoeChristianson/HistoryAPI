@@ -4,24 +4,39 @@ const http = require("http")
 const port = process.env.PORT || 5000;
 
 const server = http.createServer();
-server.on("request", async (req,res)=>{
-    if (req.url.includes("fav")){
-        res.end();
-        return;
-    }
-    res.writeHeader(200,{'Access-Control-Allow-Origin':'*'})
-    const startIndex = req.url.indexOf("=");
-    const year = req.url.slice(startIndex+1);
-    console.log(year);
-    const obj = await readYear(year)
-    let result = JSON.parse(obj);
-    result = JSON.stringify(result)
-    res.end(result)
+// server.on("request", async (req,res)=>{
+//     if (req.url.includes("fav")){
+//         res.end();
+//         return;
+//     }
+//     res.writeHeader(200,{'Access-Control-Allow-Origin':'*'})
+//     const startIndex = req.url.indexOf("=");
+//     const year = req.url.slice(startIndex+1);
+//     console.log(year);
+//     const obj = await readYear(year)
+//     let result = JSON.parse(obj);
+//     result = JSON.stringify(result)
+//     res.end(result)
 
-})
+// })
 
 server.listen(port)
 // scrapeAll(1900,1910);
 
 
 
+server.on("request", async (req,res)=>{
+    if (req.url.includes("fav")){
+        res.end();
+        return;
+    }
+    res.writeHeader(200,{'Access-Control-Allow-Origin':'*'})
+    // const startIndex = req.url.indexOf("=");
+    // const year = req.url.slice(startIndex+1);
+    // console.log(year);
+    // const obj = await readYear(year)
+    // let result = JSON.parse(obj);
+    // result = JSON.stringify(result)
+    res.end("port working")
+
+})

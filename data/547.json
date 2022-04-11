@@ -1,0 +1,247 @@
+{
+  "events": [
+    {
+      "year": 547,
+      "text": "Gothic War: Belisarius recaptures Rome from the Ostrogoths, but his Italian campaign is unsuccessful (he is starved of supplies and reinforcements from Constantinople).",
+      "length": 168,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Gothic_War_(535%E2%80%93554)\" title=\"Gothic War (535–554)\">Gothic War</a>: <a href=\"/wiki/Belisarius\" title=\"Belisarius\">Belisarius</a> recaptures Rome from the <a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">Ostrogoths</a>, but his Italian campaign is unsuccessful (he is starved of supplies and reinforcements from <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a>).",
+      "links": [
+        "<a href=\"/wiki/Gothic_War_(535%E2%80%93554)\" title=\"Gothic War (535–554)\">",
+        "<a href=\"/wiki/Belisarius\" title=\"Belisarius\">",
+        "<a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">",
+        "<a href=\"/wiki/Constantinople\" title=\"Constantinople\">"
+      ],
+      "entities": [
+        "Gothic_War_(535%E2%80%93554)",
+        "Belisarius",
+        "Ostrogoths",
+        "Constantinople"
+      ],
+      "types": [
+        "military"
+      ],
+      "date": null
+    },
+    {
+      "year": 547,
+      "text": "The mosaic panels of Justinian I and Theodora I with attendants, in the Basilica of San Vitale (Ravenna), are made (approximate date).",
+      "length": 134,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Mosaic\" title=\"Mosaic\">mosaic</a> panels of <a href=\"/wiki/Justinian_I\" title=\"Justinian I\">Justinian I</a> and <a href=\"/wiki/Theodora_(6th_century)\" class=\"mw-redirect\" title=\"Theodora (6th century)\">Theodora I</a> with <a href=\"/wiki/Domestic_worker\" title=\"Domestic worker\">attendants</a>, in the <a href=\"/wiki/Basilica_of_San_Vitale\" title=\"Basilica of San Vitale\">Basilica of San Vitale</a> (<a href=\"/wiki/Ravenna\" title=\"Ravenna\">Ravenna</a>), are made (approximate date).",
+      "links": [
+        "<a href=\"/wiki/Mosaic\" title=\"Mosaic\">",
+        "<a href=\"/wiki/Justinian_I\" title=\"Justinian I\">",
+        "<a href=\"/wiki/Theodora_(6th_century)\" class=\"mw-redirect\" title=\"Theodora (6th century)\">",
+        "<a href=\"/wiki/Domestic_worker\" title=\"Domestic worker\">",
+        "<a href=\"/wiki/Basilica_of_San_Vitale\" title=\"Basilica of San Vitale\">",
+        "<a href=\"/wiki/Ravenna\" title=\"Ravenna\">"
+      ],
+      "entities": [
+        "Mosaic",
+        "Justinian_I",
+        "Theodora_(6th_century)",
+        "Domestic_worker",
+        "Basilica_of_San_Vitale",
+        "Ravenna"
+      ],
+      "types": [
+        "religious"
+      ],
+      "date": null
+    },
+    {
+      "year": 547,
+      "text": "Theudebald, age 13, succeeds his father Theudebert I after a reign of 14 years, and becomes king of Austrasia (or 548).",
+      "length": 119,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Theudebald\" title=\"Theudebald\">Theudebald</a>, age 13, succeeds his father <a href=\"/wiki/Theudebert_I\" title=\"Theudebert I\">Theudebert I</a> after a reign of 14 years, and becomes king of <a href=\"/wiki/Austrasia\" title=\"Austrasia\">Austrasia</a> (or 548).",
+      "links": [
+        "<a href=\"/wiki/Theudebald\" title=\"Theudebald\">",
+        "<a href=\"/wiki/Theudebert_I\" title=\"Theudebert I\">",
+        "<a href=\"/wiki/Austrasia\" title=\"Austrasia\">"
+      ],
+      "entities": [
+        "Theudebald",
+        "Theudebert_I",
+        "Austrasia"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 547,
+      "text": "King Ida establishes the kingdom of Bernicia. He builds Bamburgh Castle (northeast England) as a fortress that will become the seat of Anglo-Saxon kings (according to the Historia Brittonum).",
+      "length": 191,
+      "references": [],
+      "citationNeeded": false,
+      "html": "King <a href=\"/wiki/Ida_of_Bernicia\" title=\"Ida of Bernicia\">Ida</a> establishes the kingdom of <a href=\"/wiki/Bernicia\" title=\"Bernicia\">Bernicia</a>. He builds <a href=\"/wiki/Bamburgh_Castle\" title=\"Bamburgh Castle\">Bamburgh Castle</a> (northeast England) as a fortress that will become the seat of <a href=\"/wiki/Anglo-Saxons\" title=\"Anglo-Saxons\">Anglo-Saxon</a> kings (according to the <i><a href=\"/wiki/Historia_Brittonum\" title=\"Historia Brittonum\">Historia Brittonum</a></i>).",
+      "links": [
+        "<a href=\"/wiki/Ida_of_Bernicia\" title=\"Ida of Bernicia\">",
+        "<a href=\"/wiki/Bernicia\" title=\"Bernicia\">",
+        "<a href=\"/wiki/Bamburgh_Castle\" title=\"Bamburgh Castle\">",
+        "<a href=\"/wiki/Anglo-Saxons\" title=\"Anglo-Saxons\">",
+        "<a href=\"/wiki/Historia_Brittonum\" title=\"Historia Brittonum\">"
+      ],
+      "entities": [
+        "Ida_of_Bernicia",
+        "Bernicia",
+        "Bamburgh_Castle",
+        "Anglo-Saxons",
+        "Historia_Brittonum"
+      ],
+      "types": [
+        "royal",
+        "establishments",
+        "construction"
+      ],
+      "date": null
+    },
+    {
+      "year": 547,
+      "text": "Battle of Marta: The Byzantine army under John Troglita is defeated by Moorish tribes in Tripolitania. He flees to Lunci (9 km south of Mahares[1]), and is forced to withdraw north to the fortress of Laribus (near modern El Kef[2]).",
+      "length": 232,
+      "references": [
+        "1",
+        "2"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Battle_of_Marta\" class=\"mw-redirect\" title=\"Battle of Marta\">Battle of Marta</a>: The <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine</a> army under <a href=\"/wiki/John_Troglita\" title=\"John Troglita\">John Troglita</a> is defeated by <a href=\"/wiki/Moors\" title=\"Moors\">Moorish</a> tribes in <a href=\"/wiki/Tripolitania\" title=\"Tripolitania\">Tripolitania</a>. He flees to Lunci (9 km south of <a href=\"/wiki/Mahares\" class=\"mw-redirect\" title=\"Mahares\">Mahares</a><sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\">[1]</a></sup>), and is forced to withdraw north to the <a href=\"/wiki/Fortification\" title=\"Fortification\">fortress</a> of Laribus (near modern <a href=\"/wiki/El_Kef\" title=\"El Kef\">El Kef</a><sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup>).",
+      "links": [
+        "<a href=\"/wiki/Battle_of_Marta\" class=\"mw-redirect\" title=\"Battle of Marta\">",
+        "<a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">",
+        "<a href=\"/wiki/John_Troglita\" title=\"John Troglita\">",
+        "<a href=\"/wiki/Moors\" title=\"Moors\">",
+        "<a href=\"/wiki/Tripolitania\" title=\"Tripolitania\">",
+        "<a href=\"/wiki/Mahares\" class=\"mw-redirect\" title=\"Mahares\">",
+        "<a href=\"#cite_note-1\">",
+        "<a href=\"/wiki/Fortification\" title=\"Fortification\">",
+        "<a href=\"/wiki/El_Kef\" title=\"El Kef\">",
+        "<a href=\"#cite_note-2\">"
+      ],
+      "entities": [
+        "Battle_of_Marta",
+        "Byzantine_Empire",
+        "John_Troglita",
+        "Moors",
+        "Tripolitania",
+        "Mahares",
+        "Fortification",
+        "El_Kef"
+      ],
+      "types": [
+        "military"
+      ],
+      "date": null
+    },
+    {
+      "year": 547,
+      "text": "The Tonkin revolt (Vietnam), led by Lý Nam Đế, is suppressed by the Chinese Liang dynasty.",
+      "length": 90,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Tonkin\" title=\"Tonkin\">Tonkin</a> revolt (<a href=\"/wiki/History_of_Vietnam\" title=\"History of Vietnam\">Vietnam</a>), led by <a href=\"/wiki/L%C3%BD_Nam_%C4%90%E1%BA%BF\" title=\"Lý Nam Đế\">Lý Nam Đế</a>, is suppressed by the Chinese <a href=\"/wiki/Liang_dynasty\" title=\"Liang dynasty\">Liang dynasty</a>.",
+      "links": [
+        "<a href=\"/wiki/Tonkin\" title=\"Tonkin\">",
+        "<a href=\"/wiki/History_of_Vietnam\" title=\"History of Vietnam\">",
+        "<a href=\"/wiki/L%C3%BD_Nam_%C4%90%E1%BA%BF\" title=\"Lý Nam Đế\">",
+        "<a href=\"/wiki/Liang_dynasty\" title=\"Liang dynasty\">"
+      ],
+      "entities": [
+        "Tonkin",
+        "History_of_Vietnam",
+        "L%C3%BD_Nam_%C4%90%E1%BA%BF",
+        "Liang_dynasty"
+      ],
+      "types": [],
+      "date": null
+    },
+    {
+      "year": 547,
+      "text": "The Basilica of San Vitale (Ravenna) is consecrated by bishop Maximianus of Ravenna.",
+      "length": 84,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Basilica_of_San_Vitale\" title=\"Basilica of San Vitale\">Basilica of San Vitale</a> (Ravenna) is consecrated by bishop <a href=\"/wiki/Maximianus_of_Ravenna\" title=\"Maximianus of Ravenna\">Maximianus of Ravenna</a>.",
+      "links": [
+        "<a href=\"/wiki/Basilica_of_San_Vitale\" title=\"Basilica of San Vitale\">",
+        "<a href=\"/wiki/Maximianus_of_Ravenna\" title=\"Maximianus of Ravenna\">"
+      ],
+      "entities": [
+        "Basilica_of_San_Vitale",
+        "Maximianus_of_Ravenna"
+      ],
+      "types": [
+        "religious"
+      ],
+      "date": null
+    }
+  ],
+  "births": [
+    {
+      "text": "Pei Ju, official of the Sui dynasty and Tang dynasty (d. 627)",
+      "length": 61,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Pei_Ju\" title=\"Pei Ju\">Pei Ju</a>, official of the <a href=\"/wiki/Sui_dynasty\" title=\"Sui dynasty\">Sui dynasty</a> and <a href=\"/wiki/Tang_dynasty\" title=\"Tang dynasty\">Tang dynasty</a> (d. <a href=\"/wiki/627\" title=\"627\">627</a>)",
+      "name": "Pei Ju"
+    },
+    {
+      "text": "Zhu Manyue, empress of Northern Zhou (d. 586)",
+      "length": 45,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Zhu_Manyue\" title=\"Zhu Manyue\">Zhu Manyue</a>, empress of <a href=\"/wiki/Northern_Zhou\" title=\"Northern Zhou\">Northern Zhou</a> (d. <a href=\"/wiki/586\" title=\"586\">586</a>)",
+      "name": "Zhu Manyue"
+    }
+  ],
+  "deaths": [
+    {
+      "text": "February 10 – Scholastica, Christian nun",
+      "length": 40,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/February_10\" title=\"February 10\">February 10</a> – <a href=\"/wiki/Scholastica\" title=\"Scholastica\">Scholastica</a>, Christian <a href=\"/wiki/Nun\" title=\"Nun\">nun</a>"
+    },
+    {
+      "text": "March 21, death of twin brother of St Scholastica, Saint Benedict, famous for building the Monastery of Mt Cassino and for his Benedictine Monastic Rule, Patron Saint of Europe, dies",
+      "length": 182,
+      "references": [],
+      "citationNeeded": false,
+      "html": "March 21, death of twin brother of St Scholastica, Saint Benedict, famous for building the Monastery of Mt Cassino and for his Benedictine Monastic Rule, Patron Saint of Europe, dies"
+    },
+    {
+      "text": "Gao Huan, general of Northern Wei (b. 496)",
+      "length": 42,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Gao_Huan\" title=\"Gao Huan\">Gao Huan</a>, general of <a href=\"/wiki/Northern_Wei\" title=\"Northern Wei\">Northern Wei</a> (b. <a href=\"/wiki/496\" title=\"496\">496</a>)"
+    },
+    {
+      "text": "Maelgwn Hir ap Cadwallon, king of Gwynedd (approximate date)",
+      "length": 60,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Maelgwn_Gwynedd\" title=\"Maelgwn Gwynedd\">Maelgwn Hir ap Cadwallon</a>, king of <a href=\"/wiki/Kingdom_of_Gwynedd\" title=\"Kingdom of Gwynedd\">Gwynedd</a> (approximate date)"
+    },
+    {
+      "text": "Theudebert I, king of Austrasia (or 548)",
+      "length": 40,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Theudebert_I\" title=\"Theudebert I\">Theudebert I</a>, king of <a href=\"/wiki/Austrasia\" title=\"Austrasia\">Austrasia</a> (or 548)"
+    },
+    {
+      "text": "Tribonian, Byzantine jurist and author of the Codex Justinianus",
+      "length": 63,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Tribonian\" title=\"Tribonian\">Tribonian</a>, Byzantine <a href=\"/wiki/Jurist\" title=\"Jurist\">jurist</a> and author of the <i><a href=\"/wiki/Corpus_Juris_Civilis\" title=\"Corpus Juris Civilis\">Codex Justinianus</a></i>"
+    }
+  ]
+}

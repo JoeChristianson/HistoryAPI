@@ -1,0 +1,297 @@
+{
+  "events": [
+    {
+      "year": 560,
+      "text": "Alboin succeeds his father Audoin after his death, as king of the Lombards.",
+      "length": 75,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Alboin\" title=\"Alboin\">Alboin</a> succeeds his father <a href=\"/wiki/Audoin\" title=\"Audoin\">Audoin</a> after his death, as king of the <a href=\"/wiki/Lombards\" title=\"Lombards\">Lombards</a>.",
+      "links": [
+        "<a href=\"/wiki/Alboin\" title=\"Alboin\">",
+        "<a href=\"/wiki/Audoin\" title=\"Audoin\">",
+        "<a href=\"/wiki/Lombards\" title=\"Lombards\">"
+      ],
+      "entities": [
+        "Alboin",
+        "Audoin",
+        "Lombards"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 560,
+      "text": "Adda succeeds his brother Glappa as king of Bernicia (approximate date).",
+      "length": 72,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Adda_of_Bernicia\" title=\"Adda of Bernicia\">Adda</a> succeeds his brother <a href=\"/wiki/Glappa_of_Bernicia\" title=\"Glappa of Bernicia\">Glappa</a> as king of <a href=\"/wiki/Bernicia\" title=\"Bernicia\">Bernicia</a> (approximate date).",
+      "links": [
+        "<a href=\"/wiki/Adda_of_Bernicia\" title=\"Adda of Bernicia\">",
+        "<a href=\"/wiki/Glappa_of_Bernicia\" title=\"Glappa of Bernicia\">",
+        "<a href=\"/wiki/Bernicia\" title=\"Bernicia\">"
+      ],
+      "entities": [
+        "Adda_of_Bernicia",
+        "Glappa_of_Bernicia",
+        "Bernicia"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 560,
+      "text": "Ælla becomes king of Deira (this according to the Anglo-Saxon Chronicle).",
+      "length": 73,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/%C3%86lla_of_Deira\" title=\"Ælla of Deira\">Ælla</a> becomes king of <a href=\"/wiki/Deira_(kingdom)\" class=\"mw-redirect\" title=\"Deira (kingdom)\">Deira</a> (this according to the <i><a href=\"/wiki/Anglo-Saxon_Chronicle\" title=\"Anglo-Saxon Chronicle\">Anglo-Saxon Chronicle</a></i>).",
+      "links": [
+        "<a href=\"/wiki/%C3%86lla_of_Deira\" title=\"Ælla of Deira\">",
+        "<a href=\"/wiki/Deira_(kingdom)\" class=\"mw-redirect\" title=\"Deira (kingdom)\">",
+        "<a href=\"/wiki/Anglo-Saxon_Chronicle\" title=\"Anglo-Saxon Chronicle\">"
+      ],
+      "entities": [
+        "%C3%86lla_of_Deira",
+        "Deira_(kingdom)",
+        "Anglo-Saxon_Chronicle"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 560,
+      "text": "Ceawlin succeeds his father Cynric as king of Wessex (approximate date).",
+      "length": 72,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Ceawlin_of_Wessex\" title=\"Ceawlin of Wessex\">Ceawlin</a> succeeds his father <a href=\"/wiki/Cynric_of_Wessex\" class=\"mw-redirect\" title=\"Cynric of Wessex\">Cynric</a> as king of <a href=\"/wiki/Wessex\" title=\"Wessex\">Wessex</a> (approximate date).",
+      "links": [
+        "<a href=\"/wiki/Ceawlin_of_Wessex\" title=\"Ceawlin of Wessex\">",
+        "<a href=\"/wiki/Cynric_of_Wessex\" class=\"mw-redirect\" title=\"Cynric of Wessex\">",
+        "<a href=\"/wiki/Wessex\" title=\"Wessex\">"
+      ],
+      "entities": [
+        "Ceawlin_of_Wessex",
+        "Cynric_of_Wessex",
+        "Wessex"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 560,
+      "text": "Custennin ap Cado abdicates as king of Dumnonia (South West England).",
+      "length": 69,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/List_of_kings_of_Dumnonia#Dumnonian_kings\" title=\"List of kings of Dumnonia\">Custennin ap Cado</a> abdicates as king of <a href=\"/wiki/Dumnonia\" title=\"Dumnonia\">Dumnonia</a> (<a href=\"/wiki/South_West_England\" title=\"South West England\">South West England</a>).",
+      "links": [
+        "<a href=\"/wiki/List_of_kings_of_Dumnonia#Dumnonian_kings\" title=\"List of kings of Dumnonia\">",
+        "<a href=\"/wiki/Dumnonia\" title=\"Dumnonia\">",
+        "<a href=\"/wiki/South_West_England\" title=\"South West England\">"
+      ],
+      "entities": [
+        "List_of_kings_of_Dumnonia#Dumnonian_kings",
+        "Dumnonia",
+        "South_West_England"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 560,
+      "text": "Elidyr of Strathclyde invades Gwynedd (Wales) and tries to expel his brother-in-law, king Rhun Hir ap Maelgwn.",
+      "length": 110,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Kingdom_of_Strathclyde\" title=\"Kingdom of Strathclyde\">Elidyr of Strathclyde</a> invades <a href=\"/wiki/Kingdom_of_Gwynedd\" title=\"Kingdom of Gwynedd\">Gwynedd</a> (<a href=\"/wiki/Wales\" title=\"Wales\">Wales</a>) and tries to expel his brother-in-law, king <a href=\"/wiki/Rhun_Hir_ap_Maelgwn\" title=\"Rhun Hir ap Maelgwn\">Rhun Hir ap Maelgwn</a>.",
+      "links": [
+        "<a href=\"/wiki/Kingdom_of_Strathclyde\" title=\"Kingdom of Strathclyde\">",
+        "<a href=\"/wiki/Kingdom_of_Gwynedd\" title=\"Kingdom of Gwynedd\">",
+        "<a href=\"/wiki/Wales\" title=\"Wales\">",
+        "<a href=\"/wiki/Rhun_Hir_ap_Maelgwn\" title=\"Rhun Hir ap Maelgwn\">"
+      ],
+      "entities": [
+        "Kingdom_of_Strathclyde",
+        "Kingdom_of_Gwynedd",
+        "Wales",
+        "Rhun_Hir_ap_Maelgwn"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 560,
+      "text": "Columba quarrels with Finnian of Moville over authorship of a psalter, leading to a pitched battle the next year.",
+      "length": 113,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Columba\" title=\"Columba\">Columba</a> quarrels with <a href=\"/wiki/Finnian_of_Moville\" class=\"mw-redirect\" title=\"Finnian of Moville\">Finnian of Moville</a> over authorship of a <a href=\"/wiki/Psalter\" title=\"Psalter\">psalter</a>, leading to a pitched battle the next year.",
+      "links": [
+        "<a href=\"/wiki/Columba\" title=\"Columba\">",
+        "<a href=\"/wiki/Finnian_of_Moville\" class=\"mw-redirect\" title=\"Finnian of Moville\">",
+        "<a href=\"/wiki/Psalter\" title=\"Psalter\">"
+      ],
+      "entities": [
+        "Columba",
+        "Finnian_of_Moville",
+        "Psalter"
+      ],
+      "types": [
+        "military"
+      ],
+      "date": null
+    }
+  ],
+  "births": [
+    {
+      "text": "Abu Sufyan ibn Harb, Arabic leader (d. 652)",
+      "length": 43,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Abu_Sufyan_ibn_Harb\" title=\"Abu Sufyan ibn Harb\">Abu Sufyan ibn Harb</a>, Arabic leader (d. <a href=\"/wiki/652\" title=\"652\">652</a>)",
+      "name": "Abu Sufyan ibn Harb"
+    },
+    {
+      "text": "Constantina, Byzantine empress (approximate date)",
+      "length": 49,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Constantina_(empress)\" title=\"Constantina (empress)\">Constantina</a>, Byzantine empress (approximate date)",
+      "name": "Constantina"
+    },
+    {
+      "text": "Eustace of Luxeuil, abbot (approximate date)",
+      "length": 44,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Eustace_of_Luxeuil\" title=\"Eustace of Luxeuil\">Eustace of Luxeuil</a>, <a href=\"/wiki/Abbot\" title=\"Abbot\">abbot</a> (approximate date)",
+      "name": "Eustace of Luxeuil"
+    },
+    {
+      "text": "Isidore of Seville, archbishop and scholar[2]",
+      "length": 45,
+      "references": [
+        "2"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Isidore_of_Seville\" title=\"Isidore of Seville\">Isidore of Seville</a>, <a href=\"/wiki/Archbishop\" title=\"Archbishop\">archbishop</a> and scholar<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup>",
+      "name": "Isidore of Seville"
+    },
+    {
+      "text": "Richarius, Frankish hermit and monk (approximate date)",
+      "length": 54,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Richarius\" title=\"Richarius\">Richarius</a>, Frankish <a href=\"/wiki/Hermit\" title=\"Hermit\">hermit</a> and <a href=\"/wiki/Monk\" title=\"Monk\">monk</a> (approximate date)",
+      "name": "Richarius"
+    },
+    {
+      "text": "Sophronius, patriarch of Jerusalem (d. 638)",
+      "length": 43,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Sophronius_of_Jerusalem\" title=\"Sophronius of Jerusalem\">Sophronius</a>, <a href=\"/wiki/Greek_Orthodox_Patriarch_of_Jerusalem\" title=\"Greek Orthodox Patriarch of Jerusalem\">patriarch of Jerusalem</a> (d. <a href=\"/wiki/638\" title=\"638\">638</a>)",
+      "name": "Sophronius"
+    },
+    {
+      "text": "Tassilo I, duke of Bavaria (d. 610)",
+      "length": 35,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Tassilo_I_of_Bavaria\" title=\"Tassilo I of Bavaria\">Tassilo I</a>, <a href=\"/wiki/List_of_rulers_of_Bavaria\" title=\"List of rulers of Bavaria\">duke of Bavaria</a> (d. <a href=\"/wiki/610\" title=\"610\">610</a>)",
+      "name": "Tassilo I"
+    }
+  ],
+  "deaths": [
+    {
+      "text": "Aspasius of Auch, bishop of Éauze",
+      "length": 33,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Aspasius_of_Auch\" title=\"Aspasius of Auch\">Aspasius of Auch</a>, <a href=\"/wiki/Ancient_Diocese_of_%C3%89auze\" class=\"mw-redirect\" title=\"Ancient Diocese of Éauze\">bishop of Éauze</a>"
+    },
+    {
+      "text": "Audoin, king of the Lombards (approximate date)",
+      "length": 47,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Audoin\" title=\"Audoin\">Audoin</a>, king of the <a href=\"/wiki/Lombards\" title=\"Lombards\">Lombards</a> (approximate date)"
+    },
+    {
+      "text": "Chen Chang, prince of the Chen Dynasty (b. 537)",
+      "length": 47,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Chen_Chang\" title=\"Chen Chang\">Chen Chang</a>, prince of the <a href=\"/wiki/Chen_Dynasty\" class=\"mw-redirect\" title=\"Chen Dynasty\">Chen Dynasty</a> (b. <a href=\"/wiki/537\" title=\"537\">537</a>)"
+    },
+    {
+      "text": "Clodoald, Merovingian prince (approximate date)",
+      "length": 47,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Clodoald\" title=\"Clodoald\">Clodoald</a>, <a href=\"/wiki/Merovingian_dynasty\" title=\"Merovingian dynasty\">Merovingian</a> prince (approximate date)"
+    },
+    {
+      "text": "Cynric, king of Wessex[3]",
+      "length": 25,
+      "references": [
+        "3"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Cynric_of_Wessex\" class=\"mw-redirect\" title=\"Cynric of Wessex\">Cynric</a>, king of <a href=\"/wiki/Wessex\" title=\"Wessex\">Wessex</a><sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup>"
+    },
+    {
+      "text": "Domitian of Huy, Frankish bishop and saint",
+      "length": 42,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Domitian_of_Huy\" title=\"Domitian of Huy\">Domitian of Huy</a>, Frankish <a href=\"/wiki/Bishop\" title=\"Bishop\">bishop</a> and <a href=\"/wiki/Saint\" title=\"Saint\">saint</a>"
+    },
+    {
+      "text": "Glappa, king of Bernicia (approximate date)",
+      "length": 43,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Glappa_of_Bernicia\" title=\"Glappa of Bernicia\">Glappa</a>, king of <a href=\"/wiki/Bernicia\" title=\"Bernicia\">Bernicia</a> (approximate date)"
+    },
+    {
+      "text": "Ming Di, emperor of Northern Zhou (b. 534)",
+      "length": 42,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Emperor_Ming_of_Northern_Zhou\" title=\"Emperor Ming of Northern Zhou\">Ming Di</a>, emperor of <a href=\"/wiki/Northern_Zhou\" title=\"Northern Zhou\">Northern Zhou</a> (b. <a href=\"/wiki/534\" title=\"534\">534</a>)"
+    },
+    {
+      "text": "Thurisind, king of the Gepids (approximate date)",
+      "length": 48,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Thurisind\" title=\"Thurisind\">Thurisind</a>, king of the <a href=\"/wiki/Gepids\" title=\"Gepids\">Gepids</a> (approximate date)"
+    },
+    {
+      "text": "Yang Yin, official of Northern Qi (b. 511)[4]",
+      "length": 45,
+      "references": [
+        "4"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Yang_Yin\" title=\"Yang Yin\">Yang Yin</a>, official of <a href=\"/wiki/Northern_Qi\" title=\"Northern Qi\">Northern Qi</a> (b. <a href=\"/wiki/511\" title=\"511\">511</a>)<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup>"
+    }
+  ]
+}

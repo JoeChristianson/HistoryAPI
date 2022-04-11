@@ -1,0 +1,296 @@
+{
+  "events": [
+    {
+      "year": 526,
+      "text": "August 30 – King Theodoric the Great dies of dysentery at Ravenna; his daughter Amalasuintha takes power as regent for her 10-year-old son Athalaric.",
+      "length": 149,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/August_30\" title=\"August 30\">August 30</a> – King <a href=\"/wiki/Theodoric_the_Great\" title=\"Theodoric the Great\">Theodoric the Great</a> dies of <a href=\"/wiki/Dysentery\" title=\"Dysentery\">dysentery</a> at <a href=\"/wiki/Ravenna\" title=\"Ravenna\">Ravenna</a>; his daughter <a href=\"/wiki/Amalasuintha\" title=\"Amalasuintha\">Amalasuintha</a> takes power as <a href=\"/wiki/Regency_(government)\" class=\"mw-redirect\" title=\"Regency (government)\">regent</a> for her 10-year-old son <a href=\"/wiki/Athalaric\" title=\"Athalaric\">Athalaric</a>.",
+      "links": [
+        "<a href=\"/wiki/August_30\" title=\"August 30\">",
+        "<a href=\"/wiki/Theodoric_the_Great\" title=\"Theodoric the Great\">",
+        "<a href=\"/wiki/Dysentery\" title=\"Dysentery\">",
+        "<a href=\"/wiki/Ravenna\" title=\"Ravenna\">",
+        "<a href=\"/wiki/Amalasuintha\" title=\"Amalasuintha\">",
+        "<a href=\"/wiki/Regency_(government)\" class=\"mw-redirect\" title=\"Regency (government)\">",
+        "<a href=\"/wiki/Athalaric\" title=\"Athalaric\">"
+      ],
+      "entities": [
+        "August_30",
+        "Theodoric_the_Great",
+        "Dysentery",
+        "Ravenna",
+        "Amalasuintha",
+        "Regency_(government)",
+        "Athalaric"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 526,
+      "text": "Amalasuintha rules the Ostrogothic Kingdom that extends throughout the Italian Peninsula, Dalmatia, Sicily, Sardinia and Corsica.",
+      "length": 129,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Amalasuintha rules the <a href=\"/wiki/Ostrogothic_Kingdom\" title=\"Ostrogothic Kingdom\">Ostrogothic Kingdom</a> that extends throughout the <a href=\"/wiki/Italian_Peninsula\" title=\"Italian Peninsula\">Italian Peninsula</a>, <a href=\"/wiki/Dalmatia\" title=\"Dalmatia\">Dalmatia</a>, <a href=\"/wiki/Sicily\" title=\"Sicily\">Sicily</a>, <a href=\"/wiki/Sardinia\" title=\"Sardinia\">Sardinia</a> and <a href=\"/wiki/Corsica\" title=\"Corsica\">Corsica</a>.",
+      "links": [
+        "<a href=\"/wiki/Ostrogothic_Kingdom\" title=\"Ostrogothic Kingdom\">",
+        "<a href=\"/wiki/Italian_Peninsula\" title=\"Italian Peninsula\">",
+        "<a href=\"/wiki/Dalmatia\" title=\"Dalmatia\">",
+        "<a href=\"/wiki/Sicily\" title=\"Sicily\">",
+        "<a href=\"/wiki/Sardinia\" title=\"Sardinia\">",
+        "<a href=\"/wiki/Corsica\" title=\"Corsica\">"
+      ],
+      "entities": [
+        "Ostrogothic_Kingdom",
+        "Italian_Peninsula",
+        "Dalmatia",
+        "Sicily",
+        "Sardinia",
+        "Corsica"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 526,
+      "text": "Amalaric, age 24, becomes king of the Visigoths, and assumes full royal power.",
+      "length": 78,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Amalaric\" title=\"Amalaric\">Amalaric</a>, age 24, becomes king of the <a href=\"/wiki/Visigoths\" title=\"Visigoths\">Visigoths</a>, and assumes full royal power.",
+      "links": [
+        "<a href=\"/wiki/Amalaric\" title=\"Amalaric\">",
+        "<a href=\"/wiki/Visigoths\" title=\"Visigoths\">"
+      ],
+      "entities": [
+        "Amalaric",
+        "Visigoths"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 526,
+      "text": "Roman–Persian Wars: King Kavad I, assisted by his Arabian vassal, Al-Mundhir III, begins a campaign in the Transcaucasus region and Upper Mesopotamia.",
+      "length": 150,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Roman%E2%80%93Persian_Wars\" title=\"Roman–Persian Wars\">Roman–Persian Wars</a>: King <a href=\"/wiki/Kavad_I\" title=\"Kavad I\">Kavad I</a>, assisted by his <a href=\"/wiki/Arabian_Peninsula\" title=\"Arabian Peninsula\">Arabian</a> vassal, <a href=\"/wiki/Al-Mundhir_III_ibn_al-Nu%27man\" title=\"Al-Mundhir III ibn al-Nu'man\">Al-Mundhir III</a>, begins a campaign in the <a href=\"/wiki/South_Caucasus\" title=\"South Caucasus\">Transcaucasus</a> region and <a href=\"/wiki/Al-Jazira,_Mesopotamia\" class=\"mw-redirect\" title=\"Al-Jazira, Mesopotamia\">Upper Mesopotamia</a>.",
+      "links": [
+        "<a href=\"/wiki/Roman%E2%80%93Persian_Wars\" title=\"Roman–Persian Wars\">",
+        "<a href=\"/wiki/Kavad_I\" title=\"Kavad I\">",
+        "<a href=\"/wiki/Arabian_Peninsula\" title=\"Arabian Peninsula\">",
+        "<a href=\"/wiki/Al-Mundhir_III_ibn_al-Nu%27man\" title=\"Al-Mundhir III ibn al-Nu'man\">",
+        "<a href=\"/wiki/South_Caucasus\" title=\"South Caucasus\">",
+        "<a href=\"/wiki/Al-Jazira,_Mesopotamia\" class=\"mw-redirect\" title=\"Al-Jazira, Mesopotamia\">"
+      ],
+      "entities": [
+        "Roman%E2%80%93Persian_Wars",
+        "Kavad_I",
+        "Arabian_Peninsula",
+        "Al-Mundhir_III_ibn_al-Nu%27man",
+        "South_Caucasus",
+        "Al-Jazira,_Mesopotamia"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 526,
+      "text": "Probably between May 20 and May 29 – 526 Antioch earthquake: A great earthquake kills approximately 250,000 people in Syria and Antioch.",
+      "length": 136,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Probably between <a href=\"/wiki/May_20\" title=\"May 20\">May 20</a> and <a href=\"/wiki/May_29\" title=\"May 29\">May 29</a> – <a href=\"/wiki/526_Antioch_earthquake\" title=\"526 Antioch earthquake\">526 Antioch earthquake</a>: A great earthquake kills approximately 250,000 people in <a href=\"/wiki/Syria\" title=\"Syria\">Syria</a> and <a href=\"/wiki/Antioch\" title=\"Antioch\">Antioch</a>.",
+      "links": [
+        "<a href=\"/wiki/May_20\" title=\"May 20\">",
+        "<a href=\"/wiki/May_29\" title=\"May 29\">",
+        "<a href=\"/wiki/526_Antioch_earthquake\" title=\"526 Antioch earthquake\">",
+        "<a href=\"/wiki/Syria\" title=\"Syria\">",
+        "<a href=\"/wiki/Antioch\" title=\"Antioch\">"
+      ],
+      "entities": [
+        "May_20",
+        "May_29",
+        "526_Antioch_earthquake",
+        "Syria",
+        "Antioch"
+      ],
+      "types": [
+        "disaster"
+      ],
+      "date": null
+    },
+    {
+      "year": 526,
+      "text": "Pope John I returns to Ravenna from Constantinople. Theodoric the Great finds that he has been only partly successful in persuading the Byzantine emperor Justin I to withdraw his edict against Arian Christianity,[1] and throws the pope into prison.",
+      "length": 248,
+      "references": [
+        "1"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Pope_John_I\" title=\"Pope John I\">Pope John I</a> returns to Ravenna from <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a>. Theodoric the Great finds that he has been only partly successful in persuading the <a href=\"/wiki/List_of_Byzantine_emperors\" title=\"List of Byzantine emperors\">Byzantine emperor</a> <a href=\"/wiki/Justin_I\" title=\"Justin I\">Justin I</a> to withdraw his <a href=\"/wiki/Edict\" title=\"Edict\">edict</a> against <a href=\"/wiki/Arianism\" title=\"Arianism\">Arian</a> <a href=\"/wiki/Christianity\" title=\"Christianity\">Christianity</a>,<sup id=\"cite_ref-JohnI_1-0\" class=\"reference\"><a href=\"#cite_note-JohnI-1\">[1]</a></sup> and throws the <a href=\"/wiki/Pope\" title=\"Pope\">pope</a> into prison.",
+      "links": [
+        "<a href=\"/wiki/Pope_John_I\" title=\"Pope John I\">",
+        "<a href=\"/wiki/Constantinople\" title=\"Constantinople\">",
+        "<a href=\"/wiki/List_of_Byzantine_emperors\" title=\"List of Byzantine emperors\">",
+        "<a href=\"/wiki/Justin_I\" title=\"Justin I\">",
+        "<a href=\"/wiki/Edict\" title=\"Edict\">",
+        "<a href=\"/wiki/Arianism\" title=\"Arianism\">",
+        "<a href=\"/wiki/Christianity\" title=\"Christianity\">",
+        "<a href=\"#cite_note-JohnI-1\">",
+        "<a href=\"/wiki/Pope\" title=\"Pope\">"
+      ],
+      "entities": [
+        "Pope_John_I",
+        "Constantinople",
+        "List_of_Byzantine_emperors",
+        "Justin_I",
+        "Edict",
+        "Arianism",
+        "Christianity",
+        "Pope"
+      ],
+      "types": [
+        "royal",
+        "religious"
+      ],
+      "date": null
+    },
+    {
+      "year": 526,
+      "text": "May 18 – John I dies of starvation after a 3-year reign. Theodoric the Great selects Pope Felix IV as the 54th pope.",
+      "length": 116,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/May_18\" title=\"May 18\">May 18</a> – John I dies of <a href=\"/wiki/Starvation\" title=\"Starvation\">starvation</a> after a 3-year reign. Theodoric the Great selects <a href=\"/wiki/Pope_Felix_IV\" title=\"Pope Felix IV\">Pope Felix IV</a> as the 54th pope.",
+      "links": [
+        "<a href=\"/wiki/May_18\" title=\"May 18\">",
+        "<a href=\"/wiki/Starvation\" title=\"Starvation\">",
+        "<a href=\"/wiki/Pope_Felix_IV\" title=\"Pope Felix IV\">"
+      ],
+      "entities": [
+        "May_18",
+        "Starvation",
+        "Pope_Felix_IV"
+      ],
+      "types": [
+        "royal",
+        "religious"
+      ],
+      "date": null
+    },
+    {
+      "year": 526,
+      "text": "Ecclesius, bishop of Ravenna, commissions two new churches, one for Ravenna and one for its port, Classis.",
+      "length": 106,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Ecclesius, <a href=\"/wiki/Bishop_of_Ravenna\" title=\"Bishop of Ravenna\">bishop of Ravenna</a>, commissions two new <a href=\"/wiki/Church_(building)\" title=\"Church (building)\">churches</a>, one for Ravenna and one for its port, <a href=\"/wiki/Classis_(port)\" class=\"mw-redirect\" title=\"Classis (port)\">Classis</a>.",
+      "links": [
+        "<a href=\"/wiki/Bishop_of_Ravenna\" title=\"Bishop of Ravenna\">",
+        "<a href=\"/wiki/Church_(building)\" title=\"Church (building)\">",
+        "<a href=\"/wiki/Classis_(port)\" class=\"mw-redirect\" title=\"Classis (port)\">"
+      ],
+      "entities": [
+        "Bishop_of_Ravenna",
+        "Church_(building)",
+        "Classis_(port)"
+      ],
+      "types": [
+        "religious"
+      ],
+      "date": null
+    },
+    {
+      "year": 526,
+      "text": "c. 526–547 – Sanctuary apse's mosaic showing Christ enthroned and flanked by Saint Vitalis and Ecclesius, Basilica of San Vitale (Ravenna) is made.",
+      "length": 147,
+      "references": [],
+      "citationNeeded": false,
+      "html": "c. 526–547 – Sanctuary <a href=\"/wiki/Apse\" title=\"Apse\">apse</a>'s <a href=\"/wiki/Mosaic\" title=\"Mosaic\">mosaic</a> showing <a href=\"/wiki/Christ\" class=\"mw-redirect\" title=\"Christ\">Christ</a> enthroned and flanked by <a href=\"/wiki/Saints_Vitalis_and_Agricola\" title=\"Saints Vitalis and Agricola\">Saint Vitalis</a> and Ecclesius, <a href=\"/wiki/Basilica_of_San_Vitale\" title=\"Basilica of San Vitale\">Basilica of San Vitale</a> (Ravenna) is made.",
+      "links": [
+        "<a href=\"/wiki/Apse\" title=\"Apse\">",
+        "<a href=\"/wiki/Mosaic\" title=\"Mosaic\">",
+        "<a href=\"/wiki/Christ\" class=\"mw-redirect\" title=\"Christ\">",
+        "<a href=\"/wiki/Saints_Vitalis_and_Agricola\" title=\"Saints Vitalis and Agricola\">",
+        "<a href=\"/wiki/Basilica_of_San_Vitale\" title=\"Basilica of San Vitale\">"
+      ],
+      "entities": [
+        "Apse",
+        "Mosaic",
+        "Christ",
+        "Saints_Vitalis_and_Agricola",
+        "Basilica_of_San_Vitale"
+      ],
+      "types": [
+        "religious"
+      ],
+      "date": null
+    }
+  ],
+  "births": [
+    {
+      "text": "Wang Lin, general of the Liang Dynasty and Northern Wei (d. 573)",
+      "length": 64,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Wang_Lin_(general)\" title=\"Wang Lin (general)\">Wang Lin</a>, general of the <a href=\"/wiki/Liang_Dynasty\" class=\"mw-redirect\" title=\"Liang Dynasty\">Liang Dynasty</a> and <a href=\"/wiki/Northern_Wei\" title=\"Northern Wei\">Northern Wei</a> (d. <a href=\"/wiki/573\" title=\"573\">573</a>)",
+      "name": "Wang Lin"
+    },
+    {
+      "text": "Yuan Zhao (\"the young lord\"), emperor of Northern Wei (d. 528)",
+      "length": 62,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Yuan_Zhao\" title=\"Yuan Zhao\">Yuan Zhao</a> (\"the young lord\"), emperor of Northern Wei (d. <a href=\"/wiki/528\" title=\"528\">528</a>)",
+      "name": "Yuan Zhao (\"the young lord\")"
+    }
+  ],
+  "deaths": [
+    {
+      "text": "May 18 – Pope John I[1]",
+      "length": 23,
+      "references": [
+        "1"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/May_18\" title=\"May 18\">May 18</a> – <a href=\"/wiki/Pope_John_I\" title=\"Pope John I\">Pope John I</a><sup id=\"cite_ref-JohnI_1-1\" class=\"reference\"><a href=\"#cite_note-JohnI-1\">[1]</a></sup>"
+    },
+    {
+      "text": "August 30 – Theodoric the Great, king of the Ostrogoths (b. 454)[2]",
+      "length": 67,
+      "references": [
+        "2"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/August_30\" title=\"August 30\">August 30</a> – <a href=\"/wiki/Theodoric_the_Great\" title=\"Theodoric the Great\">Theodoric the Great</a>, king of the <a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">Ostrogoths</a> (b. <a href=\"/wiki/454\" title=\"454\">454</a>)<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup>"
+    },
+    {
+      "text": "October 30 – Paul of Edessa, Syriac Orthodox bishop of Edessa",
+      "length": 61,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/October_30\" title=\"October 30\">October 30</a> – <a href=\"/wiki/Paul_of_Edessa\" title=\"Paul of Edessa\">Paul of Edessa</a>, <a href=\"/wiki/Syriac_Orthodox\" class=\"mw-redirect\" title=\"Syriac Orthodox\">Syriac Orthodox</a> bishop of <a href=\"/wiki/Edessa,_Mesopotamia\" class=\"mw-redirect\" title=\"Edessa, Mesopotamia\">Edessa</a>"
+    },
+    {
+      "text": "Quintus Aurelius Memmius Symmachus, Roman politician",
+      "length": 52,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Quintus_Aurelius_Memmius_Symmachus\" title=\"Quintus Aurelius Memmius Symmachus\">Quintus Aurelius Memmius Symmachus</a>, Roman <a href=\"/wiki/Politician\" title=\"Politician\">politician</a>"
+    }
+  ]
+}

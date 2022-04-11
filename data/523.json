@@ -1,0 +1,281 @@
+{
+  "events": [
+    {
+      "year": 523,
+      "text": "Justinian, later Byzantine emperor, marries in Constantinople his mistress Theodora, who is by profession  a courtesan (approximate date).",
+      "length": 138,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Justinian_I\" title=\"Justinian I\">Justinian</a>, later <a href=\"/wiki/List_of_Byzantine_emperors\" title=\"List of Byzantine emperors\">Byzantine emperor</a>, marries in <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a> his mistress <a href=\"/wiki/Theodora_(wife_of_Justinian_I)\" title=\"Theodora (wife of Justinian I)\">Theodora</a>, who is by profession  a <a href=\"/wiki/Courtesan\" title=\"Courtesan\">courtesan</a> (approximate date).",
+      "links": [
+        "<a href=\"/wiki/Justinian_I\" title=\"Justinian I\">",
+        "<a href=\"/wiki/List_of_Byzantine_emperors\" title=\"List of Byzantine emperors\">",
+        "<a href=\"/wiki/Constantinople\" title=\"Constantinople\">",
+        "<a href=\"/wiki/Theodora_(wife_of_Justinian_I)\" title=\"Theodora (wife of Justinian I)\">",
+        "<a href=\"/wiki/Courtesan\" title=\"Courtesan\">"
+      ],
+      "entities": [
+        "Justinian_I",
+        "List_of_Byzantine_emperors",
+        "Constantinople",
+        "Theodora_(wife_of_Justinian_I)",
+        "Courtesan"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 523,
+      "text": "King Chlothar I takes part in an expedition against Burgundy and captures the town of Autun. Now about 26, he makes plans to expand the territory he inherited from his late father, Clovis I.",
+      "length": 190,
+      "references": [],
+      "citationNeeded": false,
+      "html": "King <a href=\"/wiki/Chlothar_I\" title=\"Chlothar I\">Chlothar I</a> takes part in an expedition against <a href=\"/wiki/Kingdom_of_Burgundy\" title=\"Kingdom of Burgundy\">Burgundy</a> and captures the town of <a href=\"/wiki/Autun\" title=\"Autun\">Autun</a>. Now about 26, he makes plans to expand the territory he inherited from his late father, <a href=\"/wiki/Clovis_I\" title=\"Clovis I\">Clovis I</a>.",
+      "links": [
+        "<a href=\"/wiki/Chlothar_I\" title=\"Chlothar I\">",
+        "<a href=\"/wiki/Kingdom_of_Burgundy\" title=\"Kingdom of Burgundy\">",
+        "<a href=\"/wiki/Autun\" title=\"Autun\">",
+        "<a href=\"/wiki/Clovis_I\" title=\"Clovis I\">"
+      ],
+      "entities": [
+        "Chlothar_I",
+        "Kingdom_of_Burgundy",
+        "Autun",
+        "Clovis_I"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 523,
+      "text": "King Sigismund of Burgundy is defeated by the invading Franks under Chlodomer, Childebert I and Chlothar I. He is captured and taken as prisoner to Aurelianum (modern Orléans).",
+      "length": 176,
+      "references": [],
+      "citationNeeded": false,
+      "html": "King <a href=\"/wiki/Sigismund_of_Burgundy\" title=\"Sigismund of Burgundy\">Sigismund of Burgundy</a> is defeated by the invading <a href=\"/wiki/Franks\" title=\"Franks\">Franks</a> under <a href=\"/wiki/Chlodomer\" title=\"Chlodomer\">Chlodomer</a>, <a href=\"/wiki/Childebert_I\" title=\"Childebert I\">Childebert I</a> and Chlothar I. He is captured and taken as prisoner to <i>Aurelianum</i> (modern <a href=\"/wiki/Orl%C3%A9ans\" title=\"Orléans\">Orléans</a>).",
+      "links": [
+        "<a href=\"/wiki/Sigismund_of_Burgundy\" title=\"Sigismund of Burgundy\">",
+        "<a href=\"/wiki/Franks\" title=\"Franks\">",
+        "<a href=\"/wiki/Chlodomer\" title=\"Chlodomer\">",
+        "<a href=\"/wiki/Childebert_I\" title=\"Childebert I\">",
+        "<a href=\"/wiki/Orl%C3%A9ans\" title=\"Orléans\">"
+      ],
+      "entities": [
+        "Sigismund_of_Burgundy",
+        "Franks",
+        "Chlodomer",
+        "Childebert_I",
+        "Orl%C3%A9ans"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 523,
+      "text": "Hilderic succeeds his uncle Thrasamund after a 27-year reign, and becomes king of the Vandals and Alans. He favours Catholicism and grants the inhabitants religious freedom.",
+      "length": 173,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Hilderic\" title=\"Hilderic\">Hilderic</a> succeeds his uncle <a href=\"/wiki/Thrasamund\" title=\"Thrasamund\">Thrasamund</a> after a 27-year reign, and becomes king of the <a href=\"/wiki/Vandal\" class=\"mw-redirect\" title=\"Vandal\">Vandals</a> and <a href=\"/wiki/Alans\" title=\"Alans\">Alans</a>. He favours <a href=\"/wiki/Catholicism\" class=\"mw-redirect\" title=\"Catholicism\">Catholicism</a> and grants the inhabitants <a href=\"/wiki/Religion\" title=\"Religion\">religious</a> freedom.",
+      "links": [
+        "<a href=\"/wiki/Hilderic\" title=\"Hilderic\">",
+        "<a href=\"/wiki/Thrasamund\" title=\"Thrasamund\">",
+        "<a href=\"/wiki/Vandal\" class=\"mw-redirect\" title=\"Vandal\">",
+        "<a href=\"/wiki/Alans\" title=\"Alans\">",
+        "<a href=\"/wiki/Catholicism\" class=\"mw-redirect\" title=\"Catholicism\">",
+        "<a href=\"/wiki/Religion\" title=\"Religion\">"
+      ],
+      "entities": [
+        "Hilderic",
+        "Thrasamund",
+        "Vandal",
+        "Alans",
+        "Catholicism",
+        "Religion"
+      ],
+      "types": [
+        "royal",
+        "religious"
+      ],
+      "date": null
+    },
+    {
+      "year": 523,
+      "text": "Leptis Magna (modern Libya) is sacked by Berber (Moors) raiders. Gelimer leads a successful expedition in North Africa.",
+      "length": 119,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Leptis_Magna\" title=\"Leptis Magna\">Leptis Magna</a> (modern <a href=\"/wiki/Libya\" title=\"Libya\">Libya</a>) is sacked by <a href=\"/wiki/Berber_people\" class=\"mw-redirect\" title=\"Berber people\">Berber</a> (<a href=\"/wiki/Moors\" title=\"Moors\">Moors</a>) raiders. <a href=\"/wiki/Gelimer\" title=\"Gelimer\">Gelimer</a> leads a successful expedition in <a href=\"/wiki/North_Africa\" title=\"North Africa\">North Africa</a>.",
+      "links": [
+        "<a href=\"/wiki/Leptis_Magna\" title=\"Leptis Magna\">",
+        "<a href=\"/wiki/Libya\" title=\"Libya\">",
+        "<a href=\"/wiki/Berber_people\" class=\"mw-redirect\" title=\"Berber people\">",
+        "<a href=\"/wiki/Moors\" title=\"Moors\">",
+        "<a href=\"/wiki/Gelimer\" title=\"Gelimer\">",
+        "<a href=\"/wiki/North_Africa\" title=\"North Africa\">"
+      ],
+      "entities": [
+        "Leptis_Magna",
+        "Libya",
+        "Berber_people",
+        "Moors",
+        "Gelimer",
+        "North_Africa"
+      ],
+      "types": [
+        "military"
+      ],
+      "date": null
+    },
+    {
+      "year": 523,
+      "text": "A revolt breaks out on the Six Frontier Towns, on the northern border of Northern Wei China (\"Revolt of the Six Garrisons\"). Tensions between the elite and the Tuoba-clan severely destabilise the state.",
+      "length": 202,
+      "references": [],
+      "citationNeeded": false,
+      "html": "A <a href=\"/wiki/Revolt\" class=\"mw-redirect\" title=\"Revolt\">revolt</a> breaks out on the <a href=\"/wiki/Six_Frontier_Towns\" title=\"Six Frontier Towns\">Six Frontier Towns</a>, on the northern border of <a href=\"/wiki/Northern_Wei_dynasty\" class=\"mw-redirect\" title=\"Northern Wei dynasty\">Northern Wei</a> China (\"Revolt of the Six Garrisons\"). Tensions between the elite and the <a href=\"/wiki/Tuoba\" title=\"Tuoba\">Tuoba</a>-clan severely destabilise the state.",
+      "links": [
+        "<a href=\"/wiki/Revolt\" class=\"mw-redirect\" title=\"Revolt\">",
+        "<a href=\"/wiki/Six_Frontier_Towns\" title=\"Six Frontier Towns\">",
+        "<a href=\"/wiki/Northern_Wei_dynasty\" class=\"mw-redirect\" title=\"Northern Wei dynasty\">",
+        "<a href=\"/wiki/Tuoba\" title=\"Tuoba\">"
+      ],
+      "entities": [
+        "Revolt",
+        "Six_Frontier_Towns",
+        "Northern_Wei_dynasty",
+        "Tuoba"
+      ],
+      "types": [],
+      "date": null
+    },
+    {
+      "year": 523,
+      "text": "The Songyue Pagoda is completed during the Northern Wei era; the circular-based tower is still 40 m (131 ft) in height.",
+      "length": 119,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Songyue_Pagoda\" title=\"Songyue Pagoda\">Songyue Pagoda</a> is completed during the <a href=\"/wiki/Northern_Wei\" title=\"Northern Wei\">Northern Wei</a> era; the circular-based tower is still 40&nbsp;m (131&nbsp;ft) in height.",
+      "links": [
+        "<a href=\"/wiki/Songyue_Pagoda\" title=\"Songyue Pagoda\">",
+        "<a href=\"/wiki/Northern_Wei\" title=\"Northern Wei\">"
+      ],
+      "entities": [
+        "Songyue_Pagoda",
+        "Northern_Wei"
+      ],
+      "types": [],
+      "date": null
+    },
+    {
+      "year": 523,
+      "text": "Seong becomes king of Baekje, one of the Three Kingdoms of Korea.[1]",
+      "length": 68,
+      "references": [
+        "1"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Seong_of_Baekje\" title=\"Seong of Baekje\">Seong</a> becomes king of <a href=\"/wiki/Baekje\" title=\"Baekje\">Baekje</a>, one of the <a href=\"/wiki/Three_Kingdoms_of_Korea\" title=\"Three Kingdoms of Korea\">Three Kingdoms of Korea</a>.<sup id=\"cite_ref-met_1-0\" class=\"reference\"><a href=\"#cite_note-met-1\">[1]</a></sup>",
+      "links": [
+        "<a href=\"/wiki/Seong_of_Baekje\" title=\"Seong of Baekje\">",
+        "<a href=\"/wiki/Baekje\" title=\"Baekje\">",
+        "<a href=\"/wiki/Three_Kingdoms_of_Korea\" title=\"Three Kingdoms of Korea\">",
+        "<a href=\"#cite_note-met-1\">"
+      ],
+      "entities": [
+        "Seong_of_Baekje",
+        "Baekje",
+        "Three_Kingdoms_of_Korea"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 523,
+      "text": "August 6 – Pope Hormisdas dies at Rome after a 9-year reign, in which he has been instrumental in ending the Acacian Schism. He is succeeded by John I as the 53rd pope.",
+      "length": 168,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/August_6\" title=\"August 6\">August 6</a> – <a href=\"/wiki/Pope_Hormisdas\" title=\"Pope Hormisdas\">Pope Hormisdas</a> dies at <a href=\"/wiki/Rome\" title=\"Rome\">Rome</a> after a 9-year reign, in which he has been instrumental in ending the <a href=\"/wiki/Acacian_Schism\" class=\"mw-redirect\" title=\"Acacian Schism\">Acacian Schism</a>. He is succeeded by <a href=\"/wiki/Pope_John_I\" title=\"Pope John I\">John I</a> as the 53rd <a href=\"/wiki/Pope\" title=\"Pope\">pope</a>.",
+      "links": [
+        "<a href=\"/wiki/August_6\" title=\"August 6\">",
+        "<a href=\"/wiki/Pope_Hormisdas\" title=\"Pope Hormisdas\">",
+        "<a href=\"/wiki/Rome\" title=\"Rome\">",
+        "<a href=\"/wiki/Acacian_Schism\" class=\"mw-redirect\" title=\"Acacian Schism\">",
+        "<a href=\"/wiki/Pope_John_I\" title=\"Pope John I\">",
+        "<a href=\"/wiki/Pope\" title=\"Pope\">"
+      ],
+      "entities": [
+        "August_6",
+        "Pope_Hormisdas",
+        "Rome",
+        "Acacian_Schism",
+        "Pope_John_I",
+        "Pope"
+      ],
+      "types": [
+        "royal",
+        "religious"
+      ],
+      "date": null
+    }
+  ],
+  "births": [
+    {
+      "text": "Aurelianus, archbishop of Arles (d. 551)",
+      "length": 40,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Saint_Aurelianus\" class=\"mw-redirect\" title=\"Saint Aurelianus\">Aurelianus</a>, <a href=\"/wiki/Ancient_Diocese_of_Arles\" class=\"mw-redirect\" title=\"Ancient Diocese of Arles\">archbishop of Arles</a> (d. <a href=\"/wiki/551\" title=\"551\">551</a>)",
+      "name": "Aurelianus"
+    }
+  ],
+  "deaths": [
+    {
+      "text": "August 6 – Pope Hormisdas (b. 450)",
+      "length": 34,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/August_6\" title=\"August 6\">August 6</a> – <a href=\"/wiki/Pope_Hormisdas\" title=\"Pope Hormisdas\">Pope Hormisdas</a> (b. <a href=\"/wiki/450\" title=\"450\">450</a>)"
+    },
+    {
+      "text": "Arethas, leader of the Christian community in Yemen",
+      "length": 51,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Arethas_(martyr)\" title=\"Arethas (martyr)\">Arethas</a>, leader of the <a href=\"/wiki/Christianity\" title=\"Christianity\">Christian</a> community in <a href=\"/wiki/Yemen\" title=\"Yemen\">Yemen</a>"
+    },
+    {
+      "text": "Muryeong, king of Baekje (Three Kingdoms of Korea)[1]",
+      "length": 53,
+      "references": [
+        "1"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Muryeong_of_Baekje\" title=\"Muryeong of Baekje\">Muryeong</a>, king of <a href=\"/wiki/Baekje\" title=\"Baekje\">Baekje</a> (<a href=\"/wiki/Three_Kingdoms_of_Korea\" title=\"Three Kingdoms of Korea\">Three Kingdoms of Korea</a>)<sup id=\"cite_ref-met_1-1\" class=\"reference\"><a href=\"#cite_note-met-1\">[1]</a></sup>"
+    },
+    {
+      "text": "Philoxenus of Mabbug, Syrian theologian",
+      "length": 39,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Philoxenus_of_Mabbug\" title=\"Philoxenus of Mabbug\">Philoxenus of Mabbug</a>, Syrian <a href=\"/wiki/Theology\" title=\"Theology\">theologian</a>"
+    },
+    {
+      "text": "Thrasamund, king of the Vandals (b. 450)",
+      "length": 40,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Thrasamund\" title=\"Thrasamund\">Thrasamund</a>, king of the <a href=\"/wiki/Vandals\" title=\"Vandals\">Vandals</a> (b. <a href=\"/wiki/450\" title=\"450\">450</a>)"
+    }
+  ]
+}

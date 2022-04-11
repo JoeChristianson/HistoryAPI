@@ -1,0 +1,284 @@
+{
+  "events": [
+    {
+      "year": 562,
+      "text": "Emperor Justinian I signs a peace treaty with the Persian Empire. The status quo ante is restored, with Lazica (modern Georgia) in Byzantine hands.",
+      "length": 147,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Emperor <a href=\"/wiki/Justinian_I\" title=\"Justinian I\">Justinian I</a> signs a <a href=\"/wiki/Peace_treaty\" title=\"Peace treaty\">peace treaty</a> with the <a href=\"/wiki/Sassanid_Empire\" class=\"mw-redirect\" title=\"Sassanid Empire\">Persian Empire</a>. The <i><a href=\"/wiki/Status_quo_ante_bellum\" title=\"Status quo ante bellum\">status quo ante</a></i> is restored, with <a href=\"/wiki/Lazica\" title=\"Lazica\">Lazica</a> (modern <a href=\"/wiki/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a>) in Byzantine hands.",
+      "links": [
+        "<a href=\"/wiki/Justinian_I\" title=\"Justinian I\">",
+        "<a href=\"/wiki/Peace_treaty\" title=\"Peace treaty\">",
+        "<a href=\"/wiki/Sassanid_Empire\" class=\"mw-redirect\" title=\"Sassanid Empire\">",
+        "<a href=\"/wiki/Status_quo_ante_bellum\" title=\"Status quo ante bellum\">",
+        "<a href=\"/wiki/Lazica\" title=\"Lazica\">",
+        "<a href=\"/wiki/Georgia_(country)\" title=\"Georgia (country)\">"
+      ],
+      "entities": [
+        "Justinian_I",
+        "Peace_treaty",
+        "Sassanid_Empire",
+        "Status_quo_ante_bellum",
+        "Lazica",
+        "Georgia_(country)"
+      ],
+      "types": [
+        "royal",
+        "political"
+      ],
+      "date": null
+    },
+    {
+      "year": 562,
+      "text": "Belisarius stands trial for corruption in Constantinople, possibly with Procopius acting as praefectus urbi. He is found guilty and sent to prison.",
+      "length": 147,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Belisarius\" title=\"Belisarius\">Belisarius</a> stands trial for <a href=\"/wiki/Political_corruption\" title=\"Political corruption\">corruption</a> in <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a>, possibly with <a href=\"/wiki/Procopius\" title=\"Procopius\">Procopius</a> acting as <i><a href=\"/wiki/Praefectus_urbi\" title=\"Praefectus urbi\">praefectus urbi</a></i>. He is found guilty and sent to <a href=\"/wiki/Prison\" title=\"Prison\">prison</a>.",
+      "links": [
+        "<a href=\"/wiki/Belisarius\" title=\"Belisarius\">",
+        "<a href=\"/wiki/Political_corruption\" title=\"Political corruption\">",
+        "<a href=\"/wiki/Constantinople\" title=\"Constantinople\">",
+        "<a href=\"/wiki/Procopius\" title=\"Procopius\">",
+        "<a href=\"/wiki/Praefectus_urbi\" title=\"Praefectus urbi\">",
+        "<a href=\"/wiki/Prison\" title=\"Prison\">"
+      ],
+      "entities": [
+        "Belisarius",
+        "Political_corruption",
+        "Constantinople",
+        "Procopius",
+        "Praefectus_urbi",
+        "Prison"
+      ],
+      "types": [
+        "establishments"
+      ],
+      "date": null
+    },
+    {
+      "year": 562,
+      "text": "End of the Lazic War: In the Fifty-Year Peace Treaty, King Khosrau I recognises Lazica as a Byzantine vassal state for an annual payment of 5,000 pounds of gold each year.[1]",
+      "length": 174,
+      "references": [
+        "1"
+      ],
+      "citationNeeded": false,
+      "html": "End of the <a href=\"/wiki/Lazic_War\" title=\"Lazic War\">Lazic War</a>: In the <a href=\"/wiki/Fifty-Year_Peace_Treaty\" title=\"Fifty-Year Peace Treaty\">Fifty-Year Peace Treaty</a>, King <a href=\"/wiki/Khosrau_I\" class=\"mw-redirect\" title=\"Khosrau I\">Khosrau I</a> recognises Lazica as a <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine</a> vassal state for an annual payment of 5,000 pounds of <a href=\"/wiki/Gold\" title=\"Gold\">gold</a> each year.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\">[1]</a></sup>",
+      "links": [
+        "<a href=\"/wiki/Lazic_War\" title=\"Lazic War\">",
+        "<a href=\"/wiki/Fifty-Year_Peace_Treaty\" title=\"Fifty-Year Peace Treaty\">",
+        "<a href=\"/wiki/Khosrau_I\" class=\"mw-redirect\" title=\"Khosrau I\">",
+        "<a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">",
+        "<a href=\"/wiki/Gold\" title=\"Gold\">",
+        "<a href=\"#cite_note-1\">"
+      ],
+      "entities": [
+        "Lazic_War",
+        "Fifty-Year_Peace_Treaty",
+        "Khosrau_I",
+        "Byzantine_Empire",
+        "Gold"
+      ],
+      "types": [
+        "military",
+        "royal",
+        "political"
+      ],
+      "date": null
+    },
+    {
+      "year": 562,
+      "text": "December 23 – Justinian I re-consecrates Hagia Sophia after its dome is rebuilt. Paul the Silentiary, Byzantine poet, writes an epic poem (Ekphrasis).",
+      "length": 150,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/December_23\" title=\"December 23\">December 23</a> – Justinian I re-consecrates <a href=\"/wiki/Hagia_Sophia\" title=\"Hagia Sophia\">Hagia Sophia</a> after its <a href=\"/wiki/Dome\" title=\"Dome\">dome</a> is rebuilt. <a href=\"/wiki/Paul_the_Silentiary\" title=\"Paul the Silentiary\">Paul the Silentiary</a>, Byzantine poet, writes an epic <a href=\"/wiki/Poetry\" title=\"Poetry\">poem</a> (<i><a href=\"/wiki/Ekphrasis\" title=\"Ekphrasis\">Ekphrasis</a></i>).",
+      "links": [
+        "<a href=\"/wiki/December_23\" title=\"December 23\">",
+        "<a href=\"/wiki/Hagia_Sophia\" title=\"Hagia Sophia\">",
+        "<a href=\"/wiki/Dome\" title=\"Dome\">",
+        "<a href=\"/wiki/Paul_the_Silentiary\" title=\"Paul the Silentiary\">",
+        "<a href=\"/wiki/Poetry\" title=\"Poetry\">",
+        "<a href=\"/wiki/Ekphrasis\" title=\"Ekphrasis\">"
+      ],
+      "entities": [
+        "December_23",
+        "Hagia_Sophia",
+        "Dome",
+        "Paul_the_Silentiary",
+        "Poetry",
+        "Ekphrasis"
+      ],
+      "types": [
+        "literature",
+        "construction"
+      ],
+      "date": null
+    },
+    {
+      "year": 562,
+      "text": "King Sigebert I repels an attack on Austrasia by the Avars at Regensburg (Germany). He moves his capital from Reims to Metz (approximate date).",
+      "length": 143,
+      "references": [],
+      "citationNeeded": false,
+      "html": "King <a href=\"/wiki/Sigebert_I\" title=\"Sigebert I\">Sigebert I</a> repels an attack on <a href=\"/wiki/Austrasia\" title=\"Austrasia\">Austrasia</a> by the <a href=\"/wiki/Avars_(Carpathians)\" class=\"mw-redirect\" title=\"Avars (Carpathians)\">Avars</a> at <a href=\"/wiki/Regensburg\" title=\"Regensburg\">Regensburg</a> (<a href=\"/wiki/Germany\" title=\"Germany\">Germany</a>). He moves his capital from <a href=\"/wiki/Reims\" title=\"Reims\">Reims</a> to <a href=\"/wiki/Metz\" title=\"Metz\">Metz</a> (approximate date).",
+      "links": [
+        "<a href=\"/wiki/Sigebert_I\" title=\"Sigebert I\">",
+        "<a href=\"/wiki/Austrasia\" title=\"Austrasia\">",
+        "<a href=\"/wiki/Avars_(Carpathians)\" class=\"mw-redirect\" title=\"Avars (Carpathians)\">",
+        "<a href=\"/wiki/Regensburg\" title=\"Regensburg\">",
+        "<a href=\"/wiki/Germany\" title=\"Germany\">",
+        "<a href=\"/wiki/Reims\" title=\"Reims\">",
+        "<a href=\"/wiki/Metz\" title=\"Metz\">"
+      ],
+      "entities": [
+        "Sigebert_I",
+        "Austrasia",
+        "Avars_(Carpathians)",
+        "Regensburg",
+        "Germany",
+        "Reims",
+        "Metz"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 562,
+      "text": "Spring – Xiao Ming Di, age 20, succeeds his father Xuan Di as emperor of the Chinese Liang Dynasty.",
+      "length": 99,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Spring – <a href=\"/wiki/Emperor_Ming_of_Western_Liang\" class=\"mw-redirect\" title=\"Emperor Ming of Western Liang\">Xiao Ming Di</a>, age 20, succeeds his father <a href=\"/wiki/Emperor_Xuan_of_Western_Liang\" class=\"mw-redirect\" title=\"Emperor Xuan of Western Liang\">Xuan Di</a> as emperor of the Chinese <a href=\"/wiki/Liang_Dynasty\" class=\"mw-redirect\" title=\"Liang Dynasty\">Liang Dynasty</a>.",
+      "links": [
+        "<a href=\"/wiki/Emperor_Ming_of_Western_Liang\" class=\"mw-redirect\" title=\"Emperor Ming of Western Liang\">",
+        "<a href=\"/wiki/Emperor_Xuan_of_Western_Liang\" class=\"mw-redirect\" title=\"Emperor Xuan of Western Liang\">",
+        "<a href=\"/wiki/Liang_Dynasty\" class=\"mw-redirect\" title=\"Liang Dynasty\">"
+      ],
+      "entities": [
+        "Emperor_Ming_of_Western_Liang",
+        "Emperor_Xuan_of_Western_Liang",
+        "Liang_Dynasty"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 562,
+      "text": "Silla, by order of king Jinheung, wages war upon Gaya (Three Kingdoms of Korea) and conquers it.",
+      "length": 96,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Silla\" title=\"Silla\">Silla</a>, by order of king <a href=\"/wiki/Jinheung_of_Silla\" title=\"Jinheung of Silla\">Jinheung</a>, wages war upon <a href=\"/wiki/Gaya_Confederacy\" class=\"mw-redirect\" title=\"Gaya Confederacy\">Gaya</a> (<a href=\"/wiki/Three_Kingdoms_of_Korea\" title=\"Three Kingdoms of Korea\">Three Kingdoms of Korea</a>) and conquers it.",
+      "links": [
+        "<a href=\"/wiki/Silla\" title=\"Silla\">",
+        "<a href=\"/wiki/Jinheung_of_Silla\" title=\"Jinheung of Silla\">",
+        "<a href=\"/wiki/Gaya_Confederacy\" class=\"mw-redirect\" title=\"Gaya Confederacy\">",
+        "<a href=\"/wiki/Three_Kingdoms_of_Korea\" title=\"Three Kingdoms of Korea\">"
+      ],
+      "entities": [
+        "Silla",
+        "Jinheung_of_Silla",
+        "Gaya_Confederacy",
+        "Three_Kingdoms_of_Korea"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 562,
+      "text": "The secondary capital Taiyuan in Northern Qi is rebuilt and becomes a center of Buddhism.",
+      "length": 89,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The secondary capital <a href=\"/wiki/Taiyuan\" title=\"Taiyuan\">Taiyuan</a> in <a href=\"/wiki/Northern_Qi\" title=\"Northern Qi\">Northern Qi</a> is rebuilt and becomes a center of <a href=\"/wiki/Buddhism\" title=\"Buddhism\">Buddhism</a>.",
+      "links": [
+        "<a href=\"/wiki/Taiyuan\" title=\"Taiyuan\">",
+        "<a href=\"/wiki/Northern_Qi\" title=\"Northern Qi\">",
+        "<a href=\"/wiki/Buddhism\" title=\"Buddhism\">"
+      ],
+      "entities": [
+        "Taiyuan",
+        "Northern_Qi",
+        "Buddhism"
+      ],
+      "types": [
+        "religious",
+        "construction"
+      ],
+      "date": null
+    },
+    {
+      "year": 562,
+      "text": "The Maya state of Caracol (Belize) defeats King Wak Chan K'awiil (Double Bird) of Tikal in battle[2] during the First Tikal-Calakmul War, ending his dynasty.",
+      "length": 157,
+      "references": [
+        "2"
+      ],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Maya_civilization\" title=\"Maya civilization\">Maya</a> state of <a href=\"/wiki/Caracol,_Belize\" class=\"mw-redirect\" title=\"Caracol, Belize\">Caracol</a> (<a href=\"/wiki/Belize\" title=\"Belize\">Belize</a>) defeats King <a href=\"/wiki/Tikal#Rulers\" title=\"Tikal\">Wak Chan K'awiil</a> (Double Bird) of <a href=\"/wiki/Tikal\" title=\"Tikal\">Tikal</a> in battle<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup> during the <a href=\"/wiki/First_Tikal-Calakmul_War\" class=\"mw-redirect\" title=\"First Tikal-Calakmul War\">First Tikal-Calakmul War</a>, ending his dynasty.",
+      "links": [
+        "<a href=\"/wiki/Maya_civilization\" title=\"Maya civilization\">",
+        "<a href=\"/wiki/Caracol,_Belize\" class=\"mw-redirect\" title=\"Caracol, Belize\">",
+        "<a href=\"/wiki/Belize\" title=\"Belize\">",
+        "<a href=\"/wiki/Tikal#Rulers\" title=\"Tikal\">",
+        "<a href=\"/wiki/Tikal\" title=\"Tikal\">",
+        "<a href=\"#cite_note-2\">",
+        "<a href=\"/wiki/First_Tikal-Calakmul_War\" class=\"mw-redirect\" title=\"First Tikal-Calakmul War\">"
+      ],
+      "entities": [
+        "Maya_civilization",
+        "Caracol,_Belize",
+        "Belize",
+        "Tikal#Rulers",
+        "Tikal",
+        "First_Tikal-Calakmul_War"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    }
+  ],
+  "births": [],
+  "deaths": [
+    {
+      "text": "Dowager Cao, concubine of Xuan Di",
+      "length": 33,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Consort_Dowager_Cao\" title=\"Consort Dowager Cao\">Dowager Cao</a>, <a href=\"/wiki/Concubinage\" title=\"Concubinage\">concubine</a> of Xuan Di"
+    },
+    {
+      "text": "Dowager Gong, empress mother of Xuan Di",
+      "length": 39,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Empress_Dowager_Gong\" title=\"Empress Dowager Gong\">Dowager Gong</a>, empress mother of Xuan Di"
+    },
+    {
+      "text": "Procopius, Byzantine historian (approximate date)",
+      "length": 49,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Procopius\" title=\"Procopius\">Procopius</a>, Byzantine <a href=\"/wiki/Historian\" title=\"Historian\">historian</a> (approximate date)"
+    },
+    {
+      "text": "Xuan Di, emperor of the Liang Dynasty (b. 519)",
+      "length": 46,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Emperor_Xuan_of_Western_Liang\" class=\"mw-redirect\" title=\"Emperor Xuan of Western Liang\">Xuan Di</a>, emperor of the <a href=\"/wiki/Liang_Dynasty\" class=\"mw-redirect\" title=\"Liang Dynasty\">Liang Dynasty</a> (b. <a href=\"/wiki/519\" title=\"519\">519</a>)"
+    }
+  ]
+}

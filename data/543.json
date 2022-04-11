@@ -1,0 +1,256 @@
+{
+  "events": [
+    {
+      "year": 543,
+      "text": "Spring – Siege of Naples (542–543): The Byzantine garrison (1,000 men) in Naples surrenders to the Ostrogoths, pressed by famine and demoralized by the failure of two relief efforts. The defenders are well treated by King Totila, and the garrison is allowed safe departure, but the city walls are partly razed.[1]",
+      "length": 313,
+      "references": [
+        "1"
+      ],
+      "citationNeeded": false,
+      "html": "Spring – <a href=\"/wiki/Siege_of_Naples_(542%E2%80%93543)\" title=\"Siege of Naples (542–543)\">Siege of Naples (542–543)</a>: The <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine</a> garrison (1,000 men) in <a href=\"/wiki/Naples\" title=\"Naples\">Naples</a> surrenders to the <a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">Ostrogoths</a>, pressed by <a href=\"/wiki/Famine\" title=\"Famine\">famine</a> and demoralized by the failure of two relief efforts. The defenders are well treated by King <a href=\"/wiki/Totila\" title=\"Totila\">Totila</a>, and the garrison is allowed safe departure, but the <a href=\"/wiki/Defensive_wall\" title=\"Defensive wall\">city walls</a> are partly razed.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\">[1]</a></sup>",
+      "links": [
+        "<a href=\"/wiki/Siege_of_Naples_(542%E2%80%93543)\" title=\"Siege of Naples (542–543)\">",
+        "<a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">",
+        "<a href=\"/wiki/Naples\" title=\"Naples\">",
+        "<a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">",
+        "<a href=\"/wiki/Famine\" title=\"Famine\">",
+        "<a href=\"/wiki/Totila\" title=\"Totila\">",
+        "<a href=\"/wiki/Defensive_wall\" title=\"Defensive wall\">",
+        "<a href=\"#cite_note-1\">"
+      ],
+      "entities": [
+        "Siege_of_Naples_(542%E2%80%93543)",
+        "Byzantine_Empire",
+        "Naples",
+        "Ostrogoths",
+        "Famine",
+        "Totila",
+        "Defensive_wall"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 543,
+      "text": "The fortress city of Old Dongola (modern Sudan) along the River Nile becomes the capital of the Kingdom of Makuria. Several churches are built, including the \"Old Church\" (approximate date).",
+      "length": 190,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The fortress city of <a href=\"/wiki/Old_Dongola\" title=\"Old Dongola\">Old Dongola</a> (modern <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a>) along the River <a href=\"/wiki/Nile\" title=\"Nile\">Nile</a> becomes the capital of the <a href=\"/wiki/Kingdom_of_Makuria\" class=\"mw-redirect\" title=\"Kingdom of Makuria\">Kingdom of Makuria</a>. Several <a href=\"/wiki/Church_(building)\" title=\"Church (building)\">churches</a> are built, including the \"Old Church\" (approximate date).",
+      "links": [
+        "<a href=\"/wiki/Old_Dongola\" title=\"Old Dongola\">",
+        "<a href=\"/wiki/Sudan\" title=\"Sudan\">",
+        "<a href=\"/wiki/Nile\" title=\"Nile\">",
+        "<a href=\"/wiki/Kingdom_of_Makuria\" class=\"mw-redirect\" title=\"Kingdom of Makuria\">",
+        "<a href=\"/wiki/Church_(building)\" title=\"Church (building)\">"
+      ],
+      "entities": [
+        "Old_Dongola",
+        "Sudan",
+        "Nile",
+        "Kingdom_of_Makuria",
+        "Church_(building)"
+      ],
+      "types": [
+        "royal",
+        "construction"
+      ],
+      "date": null
+    },
+    {
+      "year": 543,
+      "text": "Summer – Khosrow I, Shahanshah of the Sasanian Empire, invades Syria again, and turns south towards Edessa to besiege the fortress city.",
+      "length": 136,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Summer – <a href=\"/wiki/Khosrow_I\" title=\"Khosrow I\">Khosrow I</a>, <a href=\"/wiki/Shah\" title=\"Shah\">Shahanshah</a> of the <a href=\"/wiki/Sasanian_Empire\" title=\"Sasanian Empire\">Sasanian Empire</a>, invades <a href=\"/wiki/Syria\" title=\"Syria\">Syria</a> again, and turns south towards <a href=\"/wiki/Edessa\" title=\"Edessa\">Edessa</a> to <a href=\"/wiki/Besiege\" class=\"mw-redirect\" title=\"Besiege\">besiege</a> the fortress city.",
+      "links": [
+        "<a href=\"/wiki/Khosrow_I\" title=\"Khosrow I\">",
+        "<a href=\"/wiki/Shah\" title=\"Shah\">",
+        "<a href=\"/wiki/Sasanian_Empire\" title=\"Sasanian Empire\">",
+        "<a href=\"/wiki/Syria\" title=\"Syria\">",
+        "<a href=\"/wiki/Edessa\" title=\"Edessa\">",
+        "<a href=\"/wiki/Besiege\" class=\"mw-redirect\" title=\"Besiege\">"
+      ],
+      "entities": [
+        "Khosrow_I",
+        "Shah",
+        "Sasanian_Empire",
+        "Syria",
+        "Edessa",
+        "Besiege"
+      ],
+      "types": [
+        "military"
+      ],
+      "date": null
+    },
+    {
+      "year": 543,
+      "text": "The Hephthalites threaten the Sasanian Empire from the East. They extend their domain in Central Asia (approximate date).",
+      "length": 121,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Hephthalite_Empire\" class=\"mw-redirect\" title=\"Hephthalite Empire\">Hephthalites</a> threaten the Sasanian Empire from the East. They extend their domain in <a href=\"/wiki/Central_Asia\" title=\"Central Asia\">Central Asia</a> (approximate date).",
+      "links": [
+        "<a href=\"/wiki/Hephthalite_Empire\" class=\"mw-redirect\" title=\"Hephthalite Empire\">",
+        "<a href=\"/wiki/Central_Asia\" title=\"Central Asia\">"
+      ],
+      "entities": [
+        "Hephthalite_Empire",
+        "Central_Asia"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 543,
+      "text": "A Byzantine invasion of Persarmenia is defeated at the Battle of Anglon by a much smaller force from the Sasanian Empire.",
+      "length": 121,
+      "references": [],
+      "citationNeeded": false,
+      "html": "A Byzantine invasion of Persarmenia is defeated at the <a href=\"/wiki/Battle_of_Anglon_(543)\" class=\"mw-redirect\" title=\"Battle of Anglon (543)\">Battle of Anglon</a> by a much smaller force from the Sasanian Empire.",
+      "links": [
+        "<a href=\"/wiki/Battle_of_Anglon_(543)\" class=\"mw-redirect\" title=\"Battle of Anglon (543)\">"
+      ],
+      "entities": [
+        "Battle_of_Anglon_(543)"
+      ],
+      "types": [
+        "military"
+      ],
+      "date": null
+    },
+    {
+      "year": 543,
+      "text": "King Pulakeshin I establishes the Chalukya dynasty in India. He extends his kingdom by conquering Vakataka and the west coast of Karnataka, giving him access to the valuable Arabian Sea trade routes.[2]",
+      "length": 202,
+      "references": [
+        "2"
+      ],
+      "citationNeeded": false,
+      "html": "King <a href=\"/wiki/Pulakeshin_I\" title=\"Pulakeshin I\">Pulakeshin I</a> establishes the <a href=\"/wiki/Chalukya_dynasty\" title=\"Chalukya dynasty\">Chalukya dynasty</a> in <a href=\"/wiki/India\" title=\"India\">India</a>. He extends his kingdom by conquering <a href=\"/wiki/Vakataka_dynasty\" title=\"Vakataka dynasty\">Vakataka</a> and the west coast of <a href=\"/wiki/Karnataka\" title=\"Karnataka\">Karnataka</a>, giving him access to the valuable <a href=\"/wiki/Arabian_Sea\" title=\"Arabian Sea\">Arabian Sea</a> trade routes.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup>",
+      "links": [
+        "<a href=\"/wiki/Pulakeshin_I\" title=\"Pulakeshin I\">",
+        "<a href=\"/wiki/Chalukya_dynasty\" title=\"Chalukya dynasty\">",
+        "<a href=\"/wiki/India\" title=\"India\">",
+        "<a href=\"/wiki/Vakataka_dynasty\" title=\"Vakataka dynasty\">",
+        "<a href=\"/wiki/Karnataka\" title=\"Karnataka\">",
+        "<a href=\"/wiki/Arabian_Sea\" title=\"Arabian Sea\">",
+        "<a href=\"#cite_note-2\">"
+      ],
+      "entities": [
+        "Pulakeshin_I",
+        "Chalukya_dynasty",
+        "India",
+        "Vakataka_dynasty",
+        "Karnataka",
+        "Arabian_Sea"
+      ],
+      "types": [
+        "royal",
+        "establishments"
+      ],
+      "date": null
+    },
+    {
+      "year": 543,
+      "text": "Approximate date – The Yupian (玉篇) Chinese dictionary is edited by Gu Yewang.",
+      "length": 77,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Approximate date – The <i><a href=\"/wiki/Yupian\" title=\"Yupian\">Yupian</a></i> (玉篇) <a href=\"/wiki/Chinese_dictionary\" title=\"Chinese dictionary\">Chinese dictionary</a> is edited by Gu Yewang.",
+      "links": [
+        "<a href=\"/wiki/Yupian\" title=\"Yupian\">",
+        "<a href=\"/wiki/Chinese_dictionary\" title=\"Chinese dictionary\">"
+      ],
+      "entities": [
+        "Yupian",
+        "Chinese_dictionary"
+      ],
+      "types": [],
+      "date": null
+    },
+    {
+      "year": 543,
+      "text": "The doctrine of apocatastasis is condemned by the Synod of Constantinople.",
+      "length": 74,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The doctrine of <a href=\"/wiki/Apocatastasis\" title=\"Apocatastasis\">apocatastasis</a> is condemned by the <a href=\"/wiki/Synod_of_Constantinople_(543)\" title=\"Synod of Constantinople (543)\">Synod of Constantinople</a>.",
+      "links": [
+        "<a href=\"/wiki/Apocatastasis\" title=\"Apocatastasis\">",
+        "<a href=\"/wiki/Synod_of_Constantinople_(543)\" title=\"Synod of Constantinople (543)\">"
+      ],
+      "entities": [
+        "Apocatastasis",
+        "Synod_of_Constantinople_(543)"
+      ],
+      "types": [],
+      "date": null
+    }
+  ],
+  "births": [
+    {
+      "text": "Brunhilda, queen of Austrasia (approximate date)",
+      "length": 48,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Brunhilda_of_Austrasia\" title=\"Brunhilda of Austrasia\">Brunhilda</a>, queen of <a href=\"/wiki/Austrasia\" title=\"Austrasia\">Austrasia</a> (approximate date)",
+      "name": "Brunhilda"
+    },
+    {
+      "text": "Columbanus, Irish missionary (d. 615)",
+      "length": 37,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Columbanus\" title=\"Columbanus\">Columbanus</a>, Irish <a href=\"/wiki/Missionary\" title=\"Missionary\">missionary</a> (d. <a href=\"/wiki/615\" title=\"615\">615</a>)",
+      "name": "Columbanus"
+    },
+    {
+      "text": "Jing Di, emperor of the Liang Dynasty (d. 558)",
+      "length": 46,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Emperor_Jing_of_Liang\" title=\"Emperor Jing of Liang\">Jing Di</a>, emperor of the <a href=\"/wiki/Liang_Dynasty\" class=\"mw-redirect\" title=\"Liang Dynasty\">Liang Dynasty</a> (d. <a href=\"/wiki/558\" title=\"558\">558</a>)",
+      "name": "Jing Di"
+    },
+    {
+      "text": "Wu Di, emperor of Northern Zhou (d. 578)",
+      "length": 40,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Emperor_Wu_of_Northern_Zhou\" title=\"Emperor Wu of Northern Zhou\">Wu Di</a>, emperor of <a href=\"/wiki/Northern_Zhou\" title=\"Northern Zhou\">Northern Zhou</a> (d. <a href=\"/wiki/578\" title=\"578\">578</a>)",
+      "name": "Wu Di"
+    }
+  ],
+  "deaths": [
+    {
+      "text": "Benedict of Nursia, monasticist (b. 480)",
+      "length": 40,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Benedict_of_Nursia\" title=\"Benedict of Nursia\">Benedict of Nursia</a>, <a href=\"/wiki/Monasticism\" title=\"Monasticism\">monasticist</a> (b. <a href=\"/wiki/480\" title=\"480\">480</a>)"
+    },
+    {
+      "text": "Octa, king of Kent (approximate date) (b. 500)",
+      "length": 46,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Octa_of_Kent\" title=\"Octa of Kent\">Octa</a>, <a href=\"/wiki/Kingdom_of_Kent\" title=\"Kingdom of Kent\">king of Kent</a> (approximate date) (b. <a href=\"/wiki/AD_500\" title=\"AD 500\">500</a>)"
+    },
+    {
+      "text": "Adolius, Byzantine officer",
+      "length": 26,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Adolius\" title=\"Adolius\">Adolius</a>, Byzantine officer"
+    }
+  ]
+}

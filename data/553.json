@@ -1,0 +1,281 @@
+{
+  "events": [
+    {
+      "year": 553,
+      "text": "Battle of Mons Lactarius:[1] King Teia secretly marches to join forces with his brother Aligern in Campania, to relieve the siege of Cumae. Meanwhile at Mons Lactarius (modern Monti Lattari), Narses lays an ambush. The combined Gothic force is crushed in a hopeless last stand for two days (south of Naples), and Teia is killed in the fightings. Aligern escapes, but surrenders a few months later.",
+      "length": 397,
+      "references": [
+        "1"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Battle_of_Mons_Lactarius\" title=\"Battle of Mons Lactarius\">Battle of Mons Lactarius</a>:<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\">[1]</a></sup> King <a href=\"/wiki/Teia\" title=\"Teia\">Teia</a> secretly marches to join forces with his brother <a href=\"/wiki/Aligern\" title=\"Aligern\">Aligern</a> in <a href=\"/wiki/Campania\" title=\"Campania\">Campania</a>, to relieve the <a href=\"/wiki/Siege\" title=\"Siege\">siege</a> of <a href=\"/wiki/Cumae\" title=\"Cumae\">Cumae</a>. Meanwhile at <i>Mons Lactarius</i> (modern <a href=\"/wiki/Monti_Lattari\" title=\"Monti Lattari\">Monti Lattari</a>), <a href=\"/wiki/Narses\" title=\"Narses\">Narses</a> lays an <a href=\"/wiki/Ambush\" title=\"Ambush\">ambush</a>. The combined <a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">Gothic</a> force is crushed in a hopeless <a href=\"/wiki/Last_stand\" title=\"Last stand\">last stand</a> for two days (south of <a href=\"/wiki/Naples\" title=\"Naples\">Naples</a>), and Teia is killed in the fightings. Aligern escapes, but surrenders a few months later.",
+      "links": [
+        "<a href=\"/wiki/Battle_of_Mons_Lactarius\" title=\"Battle of Mons Lactarius\">",
+        "<a href=\"#cite_note-1\">",
+        "<a href=\"/wiki/Teia\" title=\"Teia\">",
+        "<a href=\"/wiki/Aligern\" title=\"Aligern\">",
+        "<a href=\"/wiki/Campania\" title=\"Campania\">",
+        "<a href=\"/wiki/Siege\" title=\"Siege\">",
+        "<a href=\"/wiki/Cumae\" title=\"Cumae\">",
+        "<a href=\"/wiki/Monti_Lattari\" title=\"Monti Lattari\">",
+        "<a href=\"/wiki/Narses\" title=\"Narses\">",
+        "<a href=\"/wiki/Ambush\" title=\"Ambush\">",
+        "<a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">",
+        "<a href=\"/wiki/Last_stand\" title=\"Last stand\">",
+        "<a href=\"/wiki/Naples\" title=\"Naples\">"
+      ],
+      "entities": [
+        "Battle_of_Mons_Lactarius",
+        "Teia",
+        "Aligern",
+        "Campania",
+        "Siege",
+        "Cumae",
+        "Monti_Lattari",
+        "Narses",
+        "Ambush",
+        "Ostrogoths",
+        "Last_stand",
+        "Naples"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 553,
+      "text": "The Ostrogothic Kingdom ends after 60 years of rule in Italy. The Goths are allowed to return to their homes in peace and (re)settle in modern-day Austria. Some 7,000 people retreat to Campsas (Southern Gaul), and resist with minimal help from the Franks against the Byzantines until 554.",
+      "length": 288,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Ostrogothic_Kingdom\" title=\"Ostrogothic Kingdom\">Ostrogothic Kingdom</a> ends after 60 years of rule in <a href=\"/wiki/Italy\" title=\"Italy\">Italy</a>. The <a href=\"/wiki/Goths\" title=\"Goths\">Goths</a> are allowed to return to their homes in peace and (re)settle in modern-day <a href=\"/wiki/Austria\" title=\"Austria\">Austria</a>. Some 7,000 people retreat to <a href=\"/wiki/Campsas\" title=\"Campsas\">Campsas</a> (Southern <a href=\"/wiki/Gaul\" title=\"Gaul\">Gaul</a>), and resist with minimal help from the <a href=\"/wiki/Franks\" title=\"Franks\">Franks</a> against the <a href=\"/wiki/Byzantine_Greeks\" title=\"Byzantine Greeks\">Byzantines</a> until <a href=\"/wiki/554\" title=\"554\">554</a>.",
+      "links": [
+        "<a href=\"/wiki/Ostrogothic_Kingdom\" title=\"Ostrogothic Kingdom\">",
+        "<a href=\"/wiki/Italy\" title=\"Italy\">",
+        "<a href=\"/wiki/Goths\" title=\"Goths\">",
+        "<a href=\"/wiki/Austria\" title=\"Austria\">",
+        "<a href=\"/wiki/Campsas\" title=\"Campsas\">",
+        "<a href=\"/wiki/Gaul\" title=\"Gaul\">",
+        "<a href=\"/wiki/Franks\" title=\"Franks\">",
+        "<a href=\"/wiki/Byzantine_Greeks\" title=\"Byzantine Greeks\">",
+        "<a href=\"/wiki/554\" title=\"554\">"
+      ],
+      "entities": [
+        "Ostrogothic_Kingdom",
+        "Italy",
+        "Goths",
+        "Austria",
+        "Campsas",
+        "Gaul",
+        "Franks",
+        "Byzantine_Greeks",
+        "554"
+      ],
+      "types": [
+        "royal",
+        "migration",
+        "political"
+      ],
+      "date": null
+    },
+    {
+      "year": 553,
+      "text": "The Byzantines retreated from Telephis–Ollaria.",
+      "length": 47,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The Byzantines <a href=\"/wiki/Battle_of_Telephis%E2%80%93Ollaria\" class=\"mw-redirect\" title=\"Battle of Telephis–Ollaria\">retreated from Telephis–Ollaria</a>.",
+      "links": [
+        "<a href=\"/wiki/Battle_of_Telephis%E2%80%93Ollaria\" class=\"mw-redirect\" title=\"Battle of Telephis–Ollaria\">"
+      ],
+      "entities": [
+        "Battle_of_Telephis%E2%80%93Ollaria"
+      ],
+      "types": [],
+      "date": null
+    },
+    {
+      "year": 553,
+      "text": "Gothic War: Frankish invasion — Two Frankish-Alemanni dukes, brothers Lothair and Buccelin, cross the Alps from Germany with a force of 75,000 men, mostly Frankish infantry. In the Po Valley, they win an easy victory over a much smaller Byzantine force at Parma, and are joined by remnants of the Gothic armies, bringing the total strength of the invaders to about 90,000 men. Narses, gathering his forces as quickly as possible, marches north to harass the Franks, but is not strong enough to engage them in battle. In Samnium (Southern Italy) the brothers divide their forces: Lothaire goes down the east coast, then returns to the north, to winter in the Po Valley. Buccelin follows the west coast into Calabria, where he spends the winter — his army being seriously wasted by attrition and disease.",
+      "length": 802,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Gothic_War_(535%E2%80%93554)\" title=\"Gothic War (535–554)\">Gothic War</a>: Frankish invasion — Two <a href=\"/wiki/Franks\" title=\"Franks\">Frankish</a>-<a href=\"/wiki/Alemanni\" title=\"Alemanni\">Alemanni</a> dukes, brothers Lothair and Buccelin, cross the <a href=\"/wiki/Alps\" title=\"Alps\">Alps</a> from <a href=\"/wiki/Germany\" title=\"Germany\">Germany</a> with a force of 75,000 men, mostly Frankish infantry. In the <a href=\"/wiki/Po_Valley\" title=\"Po Valley\">Po Valley</a>, they win an easy victory over a much smaller Byzantine force at <a href=\"/wiki/Parma\" title=\"Parma\">Parma</a>, and are joined by remnants of the Gothic armies, bringing the total strength of the invaders to about 90,000 men. Narses, gathering his forces as quickly as possible, marches north to harass the Franks, but is not strong enough to engage them in battle. In <a href=\"/wiki/Samnium\" title=\"Samnium\">Samnium</a> (<a href=\"/wiki/Southern_Italy\" title=\"Southern Italy\">Southern Italy</a>) the brothers divide their forces: Lothaire goes down the east coast, then returns to the north, to winter in the Po Valley. Buccelin follows the west coast into <a href=\"/wiki/Calabria\" title=\"Calabria\">Calabria</a>, where he spends the winter — his army being seriously wasted by <a href=\"/wiki/Attrition_warfare\" title=\"Attrition warfare\">attrition</a> and disease.",
+      "links": [
+        "<a href=\"/wiki/Gothic_War_(535%E2%80%93554)\" title=\"Gothic War (535–554)\">",
+        "<a href=\"/wiki/Franks\" title=\"Franks\">",
+        "<a href=\"/wiki/Alemanni\" title=\"Alemanni\">",
+        "<a href=\"/wiki/Alps\" title=\"Alps\">",
+        "<a href=\"/wiki/Germany\" title=\"Germany\">",
+        "<a href=\"/wiki/Po_Valley\" title=\"Po Valley\">",
+        "<a href=\"/wiki/Parma\" title=\"Parma\">",
+        "<a href=\"/wiki/Samnium\" title=\"Samnium\">",
+        "<a href=\"/wiki/Southern_Italy\" title=\"Southern Italy\">",
+        "<a href=\"/wiki/Calabria\" title=\"Calabria\">",
+        "<a href=\"/wiki/Attrition_warfare\" title=\"Attrition warfare\">"
+      ],
+      "entities": [
+        "Gothic_War_(535%E2%80%93554)",
+        "Franks",
+        "Alemanni",
+        "Alps",
+        "Germany",
+        "Po_Valley",
+        "Parma",
+        "Samnium",
+        "Southern_Italy",
+        "Calabria",
+        "Attrition_warfare"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 553,
+      "text": "King Seong of Baekje attacks the kingdoms of Goguryeo and Silla. However, under a secret agreement, Silla troops attack the exhausted Baekje army, and take possession of the entire Han River valley.",
+      "length": 198,
+      "references": [],
+      "citationNeeded": false,
+      "html": "King <a href=\"/wiki/Seong_of_Baekje\" title=\"Seong of Baekje\">Seong of Baekje</a> attacks the kingdoms of <a href=\"/wiki/Goguryeo\" title=\"Goguryeo\">Goguryeo</a> and <a href=\"/wiki/Silla\" title=\"Silla\">Silla</a>. However, under a secret agreement, Silla troops attack the exhausted <a href=\"/wiki/Baekje\" title=\"Baekje\">Baekje</a> army, and take possession of the entire <a href=\"/wiki/Han_River_(Korea)\" title=\"Han River (Korea)\">Han River</a> valley.",
+      "links": [
+        "<a href=\"/wiki/Seong_of_Baekje\" title=\"Seong of Baekje\">",
+        "<a href=\"/wiki/Goguryeo\" title=\"Goguryeo\">",
+        "<a href=\"/wiki/Silla\" title=\"Silla\">",
+        "<a href=\"/wiki/Baekje\" title=\"Baekje\">",
+        "<a href=\"/wiki/Han_River_(Korea)\" title=\"Han River (Korea)\">"
+      ],
+      "entities": [
+        "Seong_of_Baekje",
+        "Goguryeo",
+        "Silla",
+        "Baekje",
+        "Han_River_(Korea)"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 553,
+      "text": "In the Turkic Khaganate Istemi is appointed governor (yabgu) in the west of the empire (modern Turkestan), and Muqan Qaghan succeeds his brother Issik Qaghan as emperor (khagan) of the Göktürks.",
+      "length": 194,
+      "references": [],
+      "citationNeeded": false,
+      "html": "In the <a href=\"/wiki/G%C3%B6kt%C3%BCrks\" title=\"Göktürks\">Turkic Khaganate</a> Istemi is appointed governor (<i><a href=\"/wiki/Yabgu\" class=\"mw-redirect\" title=\"Yabgu\">yabgu</a></i>) in the west of the empire (modern <a href=\"/wiki/Turkestan\" title=\"Turkestan\">Turkestan</a>), and <a href=\"/wiki/Muqan_Qaghan\" title=\"Muqan Qaghan\">Muqan Qaghan</a> succeeds his brother <a href=\"/wiki/Issik_Qaghan\" title=\"Issik Qaghan\">Issik Qaghan</a> as emperor (<i><a href=\"/wiki/Khagan\" title=\"Khagan\">khagan</a></i>) of the <a href=\"/wiki/G%C3%B6kt%C3%BCrks\" title=\"Göktürks\">Göktürks</a>.",
+      "links": [
+        "<a href=\"/wiki/G%C3%B6kt%C3%BCrks\" title=\"Göktürks\">",
+        "<a href=\"/wiki/Yabgu\" class=\"mw-redirect\" title=\"Yabgu\">",
+        "<a href=\"/wiki/Turkestan\" title=\"Turkestan\">",
+        "<a href=\"/wiki/Muqan_Qaghan\" title=\"Muqan Qaghan\">",
+        "<a href=\"/wiki/Issik_Qaghan\" title=\"Issik Qaghan\">",
+        "<a href=\"/wiki/Khagan\" title=\"Khagan\">",
+        "<a href=\"/wiki/G%C3%B6kt%C3%BCrks\" title=\"Göktürks\">"
+      ],
+      "entities": [
+        "G%C3%B6kt%C3%BCrks",
+        "Yabgu",
+        "Turkestan",
+        "Muqan_Qaghan",
+        "Issik_Qaghan",
+        "Khagan",
+        "G%C3%B6kt%C3%BCrks"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 553,
+      "text": "May 5 – The Fifth Ecumenical Council is held in Constantinople. Emperor Justinian I condemns in an edict the Three Chapters, causing further schisms and heresies of monoenergism and monothelitism.",
+      "length": 196,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/May_5\" title=\"May 5\">May 5</a> – The <a href=\"/wiki/Second_Council_of_Constantinople\" title=\"Second Council of Constantinople\">Fifth Ecumenical Council</a> is held in <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a>. Emperor <a href=\"/wiki/Justinian_I\" title=\"Justinian I\">Justinian I</a> condemns in an edict the <a href=\"/wiki/Three-Chapter_Controversy\" title=\"Three-Chapter Controversy\">Three Chapters</a>, causing further <a href=\"/wiki/Schism\" title=\"Schism\">schisms</a> and <a href=\"/wiki/Heresy\" title=\"Heresy\">heresies</a> of <a href=\"/wiki/Monoenergism\" title=\"Monoenergism\">monoenergism</a> and <a href=\"/wiki/Monothelitism\" title=\"Monothelitism\">monothelitism</a>.",
+      "links": [
+        "<a href=\"/wiki/May_5\" title=\"May 5\">",
+        "<a href=\"/wiki/Second_Council_of_Constantinople\" title=\"Second Council of Constantinople\">",
+        "<a href=\"/wiki/Constantinople\" title=\"Constantinople\">",
+        "<a href=\"/wiki/Justinian_I\" title=\"Justinian I\">",
+        "<a href=\"/wiki/Three-Chapter_Controversy\" title=\"Three-Chapter Controversy\">",
+        "<a href=\"/wiki/Schism\" title=\"Schism\">",
+        "<a href=\"/wiki/Heresy\" title=\"Heresy\">",
+        "<a href=\"/wiki/Monoenergism\" title=\"Monoenergism\">",
+        "<a href=\"/wiki/Monothelitism\" title=\"Monothelitism\">"
+      ],
+      "entities": [
+        "May_5",
+        "Second_Council_of_Constantinople",
+        "Constantinople",
+        "Justinian_I",
+        "Three-Chapter_Controversy",
+        "Schism",
+        "Heresy",
+        "Monoenergism",
+        "Monothelitism"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    }
+  ],
+  "births": [
+    {
+      "text": "December 10 – Houzhu, emperor of the Chen dynasty (d. 604)",
+      "length": 58,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/December_10\" title=\"December 10\">December 10</a> – <a href=\"/wiki/Chen_Shubao\" title=\"Chen Shubao\">Houzhu</a>, emperor of the <a href=\"/wiki/Chen_dynasty\" title=\"Chen dynasty\">Chen dynasty</a> (d. <a href=\"/wiki/604\" title=\"604\">604</a>)",
+      "name": "December 10 – Houzhu"
+    }
+  ],
+  "deaths": [
+    {
+      "text": "August 5 – Xiao Ji, prince of the Liang dynasty (b. 508)",
+      "length": 56,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/August_5\" title=\"August 5\">August 5</a> – <a href=\"/wiki/Xiao_Ji\" title=\"Xiao Ji\">Xiao Ji</a>, prince of the <a href=\"/wiki/Liang_dynasty\" title=\"Liang dynasty\">Liang dynasty</a> (b. <a href=\"/wiki/508\" title=\"508\">508</a>)"
+    },
+    {
+      "text": "exact date unknown\nGelimer, king of the Vandals and Alans (b. 480)\nIssik Qaghan, ruler of the Turkic Khaganate\nTeia, king of the Ostrogoths[2]",
+      "length": 142,
+      "references": [
+        "2"
+      ],
+      "citationNeeded": false,
+      "html": "<i>exact date unknown</i>\n<ul><li><a href=\"/wiki/Gelimer\" title=\"Gelimer\">Gelimer</a>, king of the <a href=\"/wiki/Vandals\" title=\"Vandals\">Vandals</a> and <a href=\"/wiki/Alans\" title=\"Alans\">Alans</a> (b. <a href=\"/wiki/480\" title=\"480\">480</a>)</li>\n<li><a href=\"/wiki/Issik_Qaghan\" title=\"Issik Qaghan\">Issik Qaghan</a>, ruler of the <a href=\"/wiki/G%C3%B6kt%C3%BCrks\" title=\"Göktürks\">Turkic Khaganate</a></li>\n<li><a href=\"/wiki/Teia\" title=\"Teia\">Teia</a>, king of the <a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">Ostrogoths</a><sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup></li></ul>"
+    },
+    {
+      "text": "Gelimer, king of the Vandals and Alans (b. 480)",
+      "length": 47,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Gelimer\" title=\"Gelimer\">Gelimer</a>, king of the <a href=\"/wiki/Vandals\" title=\"Vandals\">Vandals</a> and <a href=\"/wiki/Alans\" title=\"Alans\">Alans</a> (b. <a href=\"/wiki/480\" title=\"480\">480</a>)"
+    },
+    {
+      "text": "Issik Qaghan, ruler of the Turkic Khaganate",
+      "length": 43,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Issik_Qaghan\" title=\"Issik Qaghan\">Issik Qaghan</a>, ruler of the <a href=\"/wiki/G%C3%B6kt%C3%BCrks\" title=\"Göktürks\">Turkic Khaganate</a>"
+    },
+    {
+      "text": "Teia, king of the Ostrogoths[2]",
+      "length": 31,
+      "references": [
+        "2"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Teia\" title=\"Teia\">Teia</a>, king of the <a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">Ostrogoths</a><sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">[2]</a></sup>"
+    }
+  ]
+}

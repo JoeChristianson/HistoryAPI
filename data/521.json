@@ -1,0 +1,136 @@
+{
+  "events": [
+    {
+      "year": 521,
+      "text": "Future Byzantine emperor Justinian, age 39, is appointed consul. He later becomes Commander-in-chief of the army of the East.",
+      "length": 125,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Future <a href=\"/wiki/List_of_Byzantine_emperors\" title=\"List of Byzantine emperors\">Byzantine emperor</a> <a href=\"/wiki/Justinian_I\" title=\"Justinian I\">Justinian</a>, age 39, is appointed <a href=\"/wiki/Consul\" title=\"Consul\">consul</a>. He later becomes <a href=\"/wiki/Commander-in-chief\" title=\"Commander-in-chief\">Commander-in-chief</a> of the army of the East.",
+      "links": [
+        "<a href=\"/wiki/List_of_Byzantine_emperors\" title=\"List of Byzantine emperors\">",
+        "<a href=\"/wiki/Justinian_I\" title=\"Justinian I\">",
+        "<a href=\"/wiki/Consul\" title=\"Consul\">",
+        "<a href=\"/wiki/Commander-in-chief\" title=\"Commander-in-chief\">"
+      ],
+      "entities": [
+        "List_of_Byzantine_emperors",
+        "Justinian_I",
+        "Consul",
+        "Commander-in-chief"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 521,
+      "text": "Ma`adikarib Ya`fur becomes king, supported by the Aksumites; he begins a military campaign against the Arabian tribes.",
+      "length": 118,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Ma`adikarib Ya`fur becomes king, supported by the <a href=\"/wiki/Kingdom_of_Aksum\" title=\"Kingdom of Aksum\">Aksumites</a>; he begins a military campaign against the <a href=\"/wiki/Tribes_of_Arabia\" title=\"Tribes of Arabia\">Arabian tribes</a>.",
+      "links": [
+        "<a href=\"/wiki/Kingdom_of_Aksum\" title=\"Kingdom of Aksum\">",
+        "<a href=\"/wiki/Tribes_of_Arabia\" title=\"Tribes of Arabia\">"
+      ],
+      "entities": [
+        "Kingdom_of_Aksum",
+        "Tribes_of_Arabia"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 521,
+      "text": "Boethius introduces Greek musical letter notation to the West.",
+      "length": 62,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Boethius\" title=\"Boethius\">Boethius</a> introduces <a href=\"/wiki/Music_of_Greece\" title=\"Music of Greece\">Greek musical letter</a> notation to the West.",
+      "links": [
+        "<a href=\"/wiki/Boethius\" title=\"Boethius\">",
+        "<a href=\"/wiki/Music_of_Greece\" title=\"Music of Greece\">"
+      ],
+      "entities": [
+        "Boethius",
+        "Music_of_Greece"
+      ],
+      "types": [],
+      "date": null
+    },
+    {
+      "year": 521,
+      "text": "February 22 – Samson of Dol is ordained as bishop in Brittany, on the Feast of the Chair of Saint Peter.",
+      "length": 104,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/February_22\" title=\"February 22\">February 22</a> – <a href=\"/wiki/Samson_of_Dol\" title=\"Samson of Dol\">Samson of Dol</a> is ordained as <a href=\"/wiki/Bishop\" title=\"Bishop\">bishop</a> in <a href=\"/wiki/Brittany\" title=\"Brittany\">Brittany</a>, on the Feast of the <a href=\"/wiki/Chair_of_Saint_Peter\" title=\"Chair of Saint Peter\">Chair of Saint Peter</a>.",
+      "links": [
+        "<a href=\"/wiki/February_22\" title=\"February 22\">",
+        "<a href=\"/wiki/Samson_of_Dol\" title=\"Samson of Dol\">",
+        "<a href=\"/wiki/Bishop\" title=\"Bishop\">",
+        "<a href=\"/wiki/Brittany\" title=\"Brittany\">",
+        "<a href=\"/wiki/Chair_of_Saint_Peter\" title=\"Chair of Saint Peter\">"
+      ],
+      "entities": [
+        "February_22",
+        "Samson_of_Dol",
+        "Bishop",
+        "Brittany",
+        "Chair_of_Saint_Peter"
+      ],
+      "types": [
+        "religious"
+      ],
+      "date": "February 22 – Samson of Dol is ordained as bishop in Brittany, on the Feast of the Chair of Saint Peter."
+    }
+  ],
+  "births": [
+    {
+      "text": "December 7 – Columba, Gaelic Irish missionary monk (d. 597)",
+      "length": 59,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/December_7\" title=\"December 7\">December 7</a> – <a href=\"/wiki/Columba\" title=\"Columba\">Columba</a>, <a href=\"/wiki/Gaelic_Ireland\" title=\"Gaelic Ireland\">Gaelic Irish</a> <a href=\"/wiki/Missionary\" title=\"Missionary\">missionary</a> <a href=\"/wiki/Monk\" title=\"Monk\">monk</a> (d. <a href=\"/wiki/597\" title=\"597\">597</a>)",
+      "name": "December 7 – Columba"
+    },
+    {
+      "text": "Agericus, bishop of Verdun (approximate date)",
+      "length": 45,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Saint_Agericus_of_Verdun\" class=\"mw-redirect\" title=\"Saint Agericus of Verdun\">Agericus</a>, <a href=\"/wiki/Bishopric_of_Verdun\" title=\"Bishopric of Verdun\">bishop of Verdun</a> (approximate date)",
+      "name": "Agericus"
+    },
+    {
+      "text": "Gao Cheng, high official and regent of Eastern Wei (d. 549)",
+      "length": 59,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Gao_Cheng\" title=\"Gao Cheng\">Gao Cheng</a>, high official and <a href=\"/wiki/Regent\" title=\"Regent\">regent</a> of <a href=\"/wiki/Eastern_Wei\" title=\"Eastern Wei\">Eastern Wei</a> (d. <a href=\"/wiki/549\" title=\"549\">549</a>)",
+      "name": "Gao Cheng"
+    }
+  ],
+  "deaths": [
+    {
+      "text": "July 17 – Magnus Felix Ennodius, bishop and Latin poet",
+      "length": 54,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/July_17\" title=\"July 17\">July 17</a> – <a href=\"/wiki/Magnus_Felix_Ennodius\" title=\"Magnus Felix Ennodius\">Magnus Felix Ennodius</a>, <a href=\"/wiki/Bishop\" title=\"Bishop\">bishop</a> and Latin poet"
+    },
+    {
+      "text": "November 29 – Jacob of Serugh, Syrian poet and theologian",
+      "length": 57,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/November_29\" title=\"November 29\">November 29</a> – <a href=\"/wiki/Jacob_of_Serugh\" title=\"Jacob of Serugh\">Jacob of Serugh</a>, Syrian <a href=\"/wiki/Poet\" title=\"Poet\">poet</a> and <a href=\"/wiki/Theology\" title=\"Theology\">theologian</a>"
+    }
+  ]
+}

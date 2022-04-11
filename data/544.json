@@ -1,0 +1,259 @@
+{
+  "events": [
+    {
+      "year": 544,
+      "text": "Gothic War: Emperor Justinian I sends Belisarius back to the Ostrogothic Kingdom (Italy) with an inadequate Byzantine expeditionary force (4,000 men and 200 ships).[1]",
+      "length": 167,
+      "references": [
+        "1"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Gothic_War_(535%E2%80%93554)\" title=\"Gothic War (535–554)\">Gothic War</a>: Emperor <a href=\"/wiki/Justinian_I\" title=\"Justinian I\">Justinian I</a> sends <a href=\"/wiki/Belisarius\" title=\"Belisarius\">Belisarius</a> back to the <a href=\"/wiki/Ostrogothic_Kingdom\" title=\"Ostrogothic Kingdom\">Ostrogothic Kingdom</a> (Italy) with an inadequate <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine</a> expeditionary force (4,000 men and 200 ships).<sup id=\"cite_ref-Norw_1-0\" class=\"reference\"><a href=\"#cite_note-Norw-1\">[1]</a></sup>",
+      "links": [
+        "<a href=\"/wiki/Gothic_War_(535%E2%80%93554)\" title=\"Gothic War (535–554)\">",
+        "<a href=\"/wiki/Justinian_I\" title=\"Justinian I\">",
+        "<a href=\"/wiki/Belisarius\" title=\"Belisarius\">",
+        "<a href=\"/wiki/Ostrogothic_Kingdom\" title=\"Ostrogothic Kingdom\">",
+        "<a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">",
+        "<a href=\"#cite_note-Norw-1\">"
+      ],
+      "entities": [
+        "Gothic_War_(535%E2%80%93554)",
+        "Justinian_I",
+        "Belisarius",
+        "Ostrogothic_Kingdom",
+        "Byzantine_Empire"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 544,
+      "text": "Belisarius defeats the Gothic army under King Totila, who unsuccessfully besieges the city of Otranto (southern Italy). After their retreat, the Byzantines march towards Rome.",
+      "length": 175,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Belisarius defeats the <a href=\"/wiki/Goths\" title=\"Goths\">Gothic</a> army under King <a href=\"/wiki/Totila\" title=\"Totila\">Totila</a>, who unsuccessfully <a href=\"/wiki/Siege\" title=\"Siege\">besieges</a> the city of <a href=\"/wiki/Otranto\" title=\"Otranto\">Otranto</a> (southern Italy). After their retreat, the <a href=\"/wiki/Byzantine_Greeks\" title=\"Byzantine Greeks\">Byzantines</a> march towards <a href=\"/wiki/Rome\" title=\"Rome\">Rome</a>.",
+      "links": [
+        "<a href=\"/wiki/Goths\" title=\"Goths\">",
+        "<a href=\"/wiki/Totila\" title=\"Totila\">",
+        "<a href=\"/wiki/Siege\" title=\"Siege\">",
+        "<a href=\"/wiki/Otranto\" title=\"Otranto\">",
+        "<a href=\"/wiki/Byzantine_Greeks\" title=\"Byzantine Greeks\">",
+        "<a href=\"/wiki/Rome\" title=\"Rome\">"
+      ],
+      "entities": [
+        "Goths",
+        "Totila",
+        "Siege",
+        "Otranto",
+        "Byzantine_Greeks",
+        "Rome"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 544,
+      "text": "Justinian I issues a new edict condemning the Three Chapters. In Western Europe, Pope Vigilius refuses to acknowledge the imperial edict and is ordered to Constantinople.",
+      "length": 170,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Justinian I issues a new edict <a href=\"/wiki/Three-Chapter_Controversy\" title=\"Three-Chapter Controversy\">condemning the Three Chapters</a>. In Western Europe, <a href=\"/wiki/Pope_Vigilius\" title=\"Pope Vigilius\">Pope Vigilius</a> refuses to acknowledge the imperial edict and is ordered to <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a>.",
+      "links": [
+        "<a href=\"/wiki/Three-Chapter_Controversy\" title=\"Three-Chapter Controversy\">",
+        "<a href=\"/wiki/Pope_Vigilius\" title=\"Pope Vigilius\">",
+        "<a href=\"/wiki/Constantinople\" title=\"Constantinople\">"
+      ],
+      "entities": [
+        "Three-Chapter_Controversy",
+        "Pope_Vigilius",
+        "Constantinople"
+      ],
+      "types": [
+        "religious"
+      ],
+      "date": null
+    },
+    {
+      "year": 544,
+      "text": "King Khosrau I unsuccessfully attacks the Byzantine fortress city of Dara. The siege of Edessa is repulsed, and the Persians are forced into a stalemate.",
+      "length": 153,
+      "references": [],
+      "citationNeeded": false,
+      "html": "King <a href=\"/wiki/Khosrau_I\" class=\"mw-redirect\" title=\"Khosrau I\">Khosrau I</a> unsuccessfully attacks the Byzantine fortress city of <a href=\"/wiki/Dara_(Mesopotamia)\" title=\"Dara (Mesopotamia)\">Dara</a>. The <a href=\"/wiki/Siege_of_Edessa_(544)\" title=\"Siege of Edessa (544)\">siege of Edessa</a> is repulsed, and the <a href=\"/wiki/Sasanian_Empire\" title=\"Sasanian Empire\">Persians</a> are forced into a stalemate.",
+      "links": [
+        "<a href=\"/wiki/Khosrau_I\" class=\"mw-redirect\" title=\"Khosrau I\">",
+        "<a href=\"/wiki/Dara_(Mesopotamia)\" title=\"Dara (Mesopotamia)\">",
+        "<a href=\"/wiki/Siege_of_Edessa_(544)\" title=\"Siege of Edessa (544)\">",
+        "<a href=\"/wiki/Sasanian_Empire\" title=\"Sasanian Empire\">"
+      ],
+      "entities": [
+        "Khosrau_I",
+        "Dara_(Mesopotamia)",
+        "Siege_of_Edessa_(544)",
+        "Sasanian_Empire"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 544,
+      "text": "Battle of Cillium: A medium-sized Byzantine army under Solomon is defeated by the Moors on the border of Numidia. Solomon and his bodyguard are forced to retreat and are later killed.[2][3][4]",
+      "length": 192,
+      "references": [
+        "2",
+        "3",
+        "4"
+      ],
+      "citationNeeded": false,
+      "html": "Battle of <a href=\"/wiki/Kasserine\" title=\"Kasserine\">Cillium</a>: A medium-sized Byzantine army under <a href=\"/wiki/Solomon_(magister_militum)\" title=\"Solomon (magister militum)\">Solomon</a> is defeated by the <a href=\"/wiki/Moors\" title=\"Moors\">Moors</a> on the border of <a href=\"/wiki/Numidia\" title=\"Numidia\">Numidia</a>. Solomon and his bodyguard are forced to retreat and are later killed.<sup id=\"cite_ref-ODB_2-0\" class=\"reference\"><a href=\"#cite_note-ODB-2\">[2]</a></sup><sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">[3]</a></sup><sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\">[4]</a></sup>",
+      "links": [
+        "<a href=\"/wiki/Kasserine\" title=\"Kasserine\">",
+        "<a href=\"/wiki/Solomon_(magister_militum)\" title=\"Solomon (magister militum)\">",
+        "<a href=\"/wiki/Moors\" title=\"Moors\">",
+        "<a href=\"/wiki/Numidia\" title=\"Numidia\">",
+        "<a href=\"#cite_note-ODB-2\">",
+        "<a href=\"#cite_note-3\">",
+        "<a href=\"#cite_note-4\">"
+      ],
+      "entities": [
+        "Kasserine",
+        "Solomon_(magister_militum)",
+        "Moors",
+        "Numidia"
+      ],
+      "types": [
+        "military"
+      ],
+      "date": null
+    },
+    {
+      "year": 544,
+      "text": "February – Lý Bí is declared emperor and establishes the empire Van Xuân (modern Vietnam). His armies repel attacks from the kingdom of Champa.",
+      "length": 143,
+      "references": [],
+      "citationNeeded": false,
+      "html": "February – <a href=\"/wiki/L%C3%BD_B%C3%AD\" class=\"mw-redirect\" title=\"Lý Bí\">Lý Bí</a> is declared emperor and establishes the empire Van Xuân (modern <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a>). His armies repel attacks from the kingdom of <a href=\"/wiki/Champa\" title=\"Champa\">Champa</a>.",
+      "links": [
+        "<a href=\"/wiki/L%C3%BD_B%C3%AD\" class=\"mw-redirect\" title=\"Lý Bí\">",
+        "<a href=\"/wiki/Vietnam\" title=\"Vietnam\">",
+        "<a href=\"/wiki/Champa\" title=\"Champa\">"
+      ],
+      "entities": [
+        "L%C3%BD_B%C3%AD",
+        "Vietnam",
+        "Champa"
+      ],
+      "types": [
+        "royal",
+        "establishments"
+      ],
+      "date": "February – Lý Bí is declared emperor and establishes the empire Van Xuân (modern Vietnam). His armies repel attacks from the kingdom of Champa."
+    },
+    {
+      "year": 544,
+      "text": "October – The Liang dynasty retaliates against Van Xuân, and sends an imperial army (120,000 men) under Chen Baxian to re-occupy the region.",
+      "length": 140,
+      "references": [],
+      "citationNeeded": false,
+      "html": "October – The <a href=\"/wiki/Liang_dynasty\" title=\"Liang dynasty\">Liang dynasty</a> retaliates against Van Xuân, and sends an imperial army (120,000 men) under <a href=\"/wiki/Emperor_Wu_of_Chen\" title=\"Emperor Wu of Chen\">Chen Baxian</a> to re-occupy the region.",
+      "links": [
+        "<a href=\"/wiki/Liang_dynasty\" title=\"Liang dynasty\">",
+        "<a href=\"/wiki/Emperor_Wu_of_Chen\" title=\"Emperor Wu of Chen\">"
+      ],
+      "entities": [
+        "Liang_dynasty",
+        "Emperor_Wu_of_Chen"
+      ],
+      "types": [
+        "military"
+      ],
+      "date": null
+    },
+    {
+      "year": 544,
+      "text": "Jacob Baradaeus consecrates Sergius of Tella as patriarch of Antioch, opening a permanent schism between the Syriac Orthodox Church and the Eastern Orthodox Church.",
+      "length": 164,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Jacob_Baradaeus\" title=\"Jacob Baradaeus\">Jacob Baradaeus</a> consecrates Sergius of Tella as <a href=\"/wiki/Patriarch_of_Antioch\" title=\"Patriarch of Antioch\">patriarch of Antioch</a>, opening a permanent <a href=\"/wiki/Schism\" title=\"Schism\">schism</a> between the <a href=\"/wiki/Syriac_Orthodox_Church\" title=\"Syriac Orthodox Church\">Syriac Orthodox Church</a> and the <a href=\"/wiki/Eastern_Orthodox_Church\" title=\"Eastern Orthodox Church\">Eastern Orthodox Church</a>.",
+      "links": [
+        "<a href=\"/wiki/Jacob_Baradaeus\" title=\"Jacob Baradaeus\">",
+        "<a href=\"/wiki/Patriarch_of_Antioch\" title=\"Patriarch of Antioch\">",
+        "<a href=\"/wiki/Schism\" title=\"Schism\">",
+        "<a href=\"/wiki/Syriac_Orthodox_Church\" title=\"Syriac Orthodox Church\">",
+        "<a href=\"/wiki/Eastern_Orthodox_Church\" title=\"Eastern Orthodox Church\">"
+      ],
+      "entities": [
+        "Jacob_Baradaeus",
+        "Patriarch_of_Antioch",
+        "Schism",
+        "Syriac_Orthodox_Church",
+        "Eastern_Orthodox_Church"
+      ],
+      "types": [
+        "religious"
+      ],
+      "date": null
+    }
+  ],
+  "births": [
+    {
+      "text": "Dugu Qieluo, empress of the Sui dynasty (d. 602)",
+      "length": 48,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Dugu_Qieluo\" title=\"Dugu Qieluo\">Dugu Qieluo</a>, empress of the <a href=\"/wiki/Sui_dynasty\" title=\"Sui dynasty\">Sui dynasty</a> (d. <a href=\"/wiki/602\" title=\"602\">602</a>)",
+      "name": "Dugu Qieluo"
+    },
+    {
+      "text": "Jing Di, emperor of the Liang dynasty (d. 558)",
+      "length": 46,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Emperor_Jing_of_Liang\" title=\"Emperor Jing of Liang\">Jing Di</a>, emperor of the <a href=\"/wiki/Liang_dynasty\" title=\"Liang dynasty\">Liang dynasty</a> (d. <a href=\"/wiki/558\" title=\"558\">558</a>)",
+      "name": "Jing Di"
+    },
+    {
+      "text": "Yuwen Xian, prince of Northern Zhou (d. 578)",
+      "length": 44,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Yuwen_Xian\" title=\"Yuwen Xian\">Yuwen Xian</a>, prince of <a href=\"/wiki/Northern_Zhou\" title=\"Northern Zhou\">Northern Zhou</a> (d. <a href=\"/wiki/578\" title=\"578\">578</a>)",
+      "name": "Yuwen Xian"
+    }
+  ],
+  "deaths": [
+    {
+      "text": "October 18 – Wenna, Cornish saint (approximate date)",
+      "length": 52,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/October_18\" title=\"October 18\">October 18</a> – <a href=\"/wiki/Saint_Wenna\" title=\"Saint Wenna\">Wenna</a>, Cornish saint (approximate date)"
+    },
+    {
+      "text": "Dionysius Exiguus, inventor of the Anno Domini era (approximate date)",
+      "length": 69,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Dionysius_Exiguus\" title=\"Dionysius Exiguus\">Dionysius Exiguus</a>, inventor of the <a href=\"/wiki/Anno_Domini\" title=\"Anno Domini\">Anno Domini</a> era (approximate date)"
+    },
+    {
+      "text": "Solomon, Byzantine general and prefect of Africa",
+      "length": 48,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Solomon_(magister_militum)\" title=\"Solomon (magister militum)\">Solomon</a>, Byzantine general and <a href=\"/wiki/Praetorian_prefecture_of_Africa\" title=\"Praetorian prefecture of Africa\">prefect of Africa</a>"
+    }
+  ]
+}

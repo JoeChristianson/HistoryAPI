@@ -1,0 +1,317 @@
+{
+  "events": [
+    {
+      "year": 501,
+      "text": "Domangart Réti succeeds his father Fergus Mór, after he dies during a campaign against the Picts. He becomes the new king of Dál Riata (modern Scotland) (according to the Annals of Tigernach).",
+      "length": 192,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Domangart_R%C3%A9ti\" title=\"Domangart Réti\">Domangart Réti</a> succeeds his father <a href=\"/wiki/Fergus_M%C3%B3r\" title=\"Fergus Mór\">Fergus Mór</a>, after he dies during a campaign against the <a href=\"/wiki/Picts\" title=\"Picts\">Picts</a>. He becomes the new king of <a href=\"/wiki/D%C3%A1l_Riata\" title=\"Dál Riata\">Dál Riata</a> (modern <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>) (according to the <i><a href=\"/wiki/Annals_of_Tigernach\" title=\"Annals of Tigernach\">Annals of Tigernach</a></i>).",
+      "links": [
+        "<a href=\"/wiki/Domangart_R%C3%A9ti\" title=\"Domangart Réti\">",
+        "<a href=\"/wiki/Fergus_M%C3%B3r\" title=\"Fergus Mór\">",
+        "<a href=\"/wiki/Picts\" title=\"Picts\">",
+        "<a href=\"/wiki/D%C3%A1l_Riata\" title=\"Dál Riata\">",
+        "<a href=\"/wiki/Scotland\" title=\"Scotland\">",
+        "<a href=\"/wiki/Annals_of_Tigernach\" title=\"Annals of Tigernach\">"
+      ],
+      "entities": [
+        "Domangart_R%C3%A9ti",
+        "Fergus_M%C3%B3r",
+        "Picts",
+        "D%C3%A1l_Riata",
+        "Scotland",
+        "Annals_of_Tigernach"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 501,
+      "text": "King Gundobad breaks his promise of tribute and regains his military power. He besieges his brother Godegisel at the city of Vienne (Burgundy), and murders him in an Arian church along with the bishop. [1]",
+      "length": 205,
+      "references": [
+        "1"
+      ],
+      "citationNeeded": false,
+      "html": "King <a href=\"/wiki/Gundobad\" title=\"Gundobad\">Gundobad</a> breaks his promise of <a href=\"/wiki/Tribute\" title=\"Tribute\">tribute</a> and regains his military power. He besieges his brother <a href=\"/wiki/List_of_Kings_of_Burgundy\" class=\"mw-redirect\" title=\"List of Kings of Burgundy\">Godegisel</a> at the city of <a href=\"/wiki/Vienne,_Is%C3%A8re\" title=\"Vienne, Isère\">Vienne</a> (<a href=\"/wiki/Kingdom_of_Burgundy\" title=\"Kingdom of Burgundy\">Burgundy</a>), and murders him in an <a href=\"/wiki/Arianism\" title=\"Arianism\">Arian</a> church along with the <a href=\"/wiki/Bishop\" title=\"Bishop\">bishop</a>. <sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\">[1]</a></sup>",
+      "links": [
+        "<a href=\"/wiki/Gundobad\" title=\"Gundobad\">",
+        "<a href=\"/wiki/Tribute\" title=\"Tribute\">",
+        "<a href=\"/wiki/List_of_Kings_of_Burgundy\" class=\"mw-redirect\" title=\"List of Kings of Burgundy\">",
+        "<a href=\"/wiki/Vienne,_Is%C3%A8re\" title=\"Vienne, Isère\">",
+        "<a href=\"/wiki/Kingdom_of_Burgundy\" title=\"Kingdom of Burgundy\">",
+        "<a href=\"/wiki/Arianism\" title=\"Arianism\">",
+        "<a href=\"/wiki/Bishop\" title=\"Bishop\">",
+        "<a href=\"#cite_note-1\">"
+      ],
+      "entities": [
+        "Gundobad",
+        "Tribute",
+        "List_of_Kings_of_Burgundy",
+        "Vienne,_Is%C3%A8re",
+        "Kingdom_of_Burgundy",
+        "Arianism",
+        "Bishop"
+      ],
+      "types": [
+        "military",
+        "royal",
+        "religious"
+      ],
+      "date": null
+    },
+    {
+      "year": 501,
+      "text": "Dong Hun Hou is killed during a siege of the capital Jiankang. He is succeeded by his  brother Qi He Di, who becomes emperor of Southern Qi (China).",
+      "length": 148,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Xiao_Baojuan\" title=\"Xiao Baojuan\">Dong Hun Hou</a> is killed during a <a href=\"/wiki/Siege\" title=\"Siege\">siege</a> of the capital <a href=\"/wiki/Jiankang\" title=\"Jiankang\">Jiankang</a>. He is succeeded by his  brother <a href=\"/wiki/Emperor_He_of_Southern_Qi\" title=\"Emperor He of Southern Qi\">Qi He Di</a>, who becomes emperor of <a href=\"/wiki/Southern_Qi\" title=\"Southern Qi\">Southern Qi</a> (<a href=\"/wiki/China\" title=\"China\">China</a>).",
+      "links": [
+        "<a href=\"/wiki/Xiao_Baojuan\" title=\"Xiao Baojuan\">",
+        "<a href=\"/wiki/Siege\" title=\"Siege\">",
+        "<a href=\"/wiki/Jiankang\" title=\"Jiankang\">",
+        "<a href=\"/wiki/Emperor_He_of_Southern_Qi\" title=\"Emperor He of Southern Qi\">",
+        "<a href=\"/wiki/Southern_Qi\" title=\"Southern Qi\">",
+        "<a href=\"/wiki/China\" title=\"China\">"
+      ],
+      "entities": [
+        "Xiao_Baojuan",
+        "Siege",
+        "Jiankang",
+        "Emperor_He_of_Southern_Qi",
+        "Southern_Qi",
+        "China"
+      ],
+      "types": [
+        "military",
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 501,
+      "text": "Muryeong becomes king of Baekje (one of the Three Kingdoms of Korea).[2] During his reign, the kingdom remains allied with Silla and expands its relationships with China and Japan.",
+      "length": 180,
+      "references": [
+        "2"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Muryeong_of_Baekje\" title=\"Muryeong of Baekje\">Muryeong</a> becomes king of <a href=\"/wiki/Baekje\" title=\"Baekje\">Baekje</a> (one of the <a href=\"/wiki/Three_Kingdoms_of_Korea\" title=\"Three Kingdoms of Korea\">Three Kingdoms of Korea</a>).<sup id=\"cite_ref-met_2-0\" class=\"reference\"><a href=\"#cite_note-met-2\">[2]</a></sup> During his reign, the kingdom remains allied with <a href=\"/wiki/Silla\" title=\"Silla\">Silla</a> and expands its relationships with China and <a href=\"/wiki/Kofun_Period\" class=\"mw-redirect\" title=\"Kofun Period\">Japan</a>.",
+      "links": [
+        "<a href=\"/wiki/Muryeong_of_Baekje\" title=\"Muryeong of Baekje\">",
+        "<a href=\"/wiki/Baekje\" title=\"Baekje\">",
+        "<a href=\"/wiki/Three_Kingdoms_of_Korea\" title=\"Three Kingdoms of Korea\">",
+        "<a href=\"#cite_note-met-2\">",
+        "<a href=\"/wiki/Silla\" title=\"Silla\">",
+        "<a href=\"/wiki/Kofun_Period\" class=\"mw-redirect\" title=\"Kofun Period\">"
+      ],
+      "entities": [
+        "Muryeong_of_Baekje",
+        "Baekje",
+        "Three_Kingdoms_of_Korea",
+        "Silla",
+        "Kofun_Period"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 501,
+      "text": "The Maya are peaking in economic prosperity. The civilization at Teotihuacan begins to decline and its people are migrating to the greatest Mayan city, Tikal, bringing with them ideas about weaponry and new ritual practices.",
+      "length": 224,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Maya_civilization\" title=\"Maya civilization\">Maya</a> are peaking in economic prosperity. The civilization at <a href=\"/wiki/Teotihuacan\" title=\"Teotihuacan\">Teotihuacan</a> begins to decline and its people are <a href=\"/wiki/Human_migration\" title=\"Human migration\">migrating</a> to the greatest Mayan city, <a href=\"/wiki/Tikal\" title=\"Tikal\">Tikal</a>, bringing with them ideas about <a href=\"/wiki/Weapon\" title=\"Weapon\">weaponry</a> and new ritual practices.",
+      "links": [
+        "<a href=\"/wiki/Maya_civilization\" title=\"Maya civilization\">",
+        "<a href=\"/wiki/Teotihuacan\" title=\"Teotihuacan\">",
+        "<a href=\"/wiki/Human_migration\" title=\"Human migration\">",
+        "<a href=\"/wiki/Tikal\" title=\"Tikal\">",
+        "<a href=\"/wiki/Weapon\" title=\"Weapon\">"
+      ],
+      "entities": [
+        "Maya_civilization",
+        "Teotihuacan",
+        "Human_migration",
+        "Tikal",
+        "Weapon"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 501,
+      "text": "June 5 – Ahkal Mo' Naab' I comes to power in the Maya city of Palenque (Mexico).",
+      "length": 80,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/June_5\" title=\"June 5\">June 5</a> – <a href=\"/wiki/Ahkal_Mo%27_Naab%27_I\" class=\"mw-redirect\" title=\"Ahkal Mo' Naab' I\">Ahkal Mo' Naab' I</a> comes to power in the Maya city of <a href=\"/wiki/Palenque\" title=\"Palenque\">Palenque</a> (<a href=\"/wiki/Mexico\" title=\"Mexico\">Mexico</a>).",
+      "links": [
+        "<a href=\"/wiki/June_5\" title=\"June 5\">",
+        "<a href=\"/wiki/Ahkal_Mo%27_Naab%27_I\" class=\"mw-redirect\" title=\"Ahkal Mo' Naab' I\">",
+        "<a href=\"/wiki/Palenque\" title=\"Palenque\">",
+        "<a href=\"/wiki/Mexico\" title=\"Mexico\">"
+      ],
+      "entities": [
+        "June_5",
+        "Ahkal_Mo%27_Naab%27_I",
+        "Palenque",
+        "Mexico"
+      ],
+      "types": [
+        "political"
+      ],
+      "date": null
+    },
+    {
+      "year": 501,
+      "text": "The Sushruta Samhita medical book becomes a classic of medicine in India. The book contains descriptions of surgery, illnesses, medicinal plants, and a detailed study on anatomy (approximate date).",
+      "length": 197,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Sushruta_Samhita\" title=\"Sushruta Samhita\">Sushruta Samhita</a> medical book becomes a classic of <a href=\"/wiki/Medicine\" title=\"Medicine\">medicine</a> in <a href=\"/wiki/India\" title=\"India\">India</a>. The book contains descriptions of <a href=\"/wiki/Surgery\" title=\"Surgery\">surgery</a>, <a href=\"/wiki/Illness\" class=\"mw-redirect\" title=\"Illness\">illnesses</a>, <a href=\"/wiki/Phytotherapy\" class=\"mw-redirect\" title=\"Phytotherapy\">medicinal plants</a>, and a detailed study on <a href=\"/wiki/Anatomy\" title=\"Anatomy\">anatomy</a> (approximate date).",
+      "links": [
+        "<a href=\"/wiki/Sushruta_Samhita\" title=\"Sushruta Samhita\">",
+        "<a href=\"/wiki/Medicine\" title=\"Medicine\">",
+        "<a href=\"/wiki/India\" title=\"India\">",
+        "<a href=\"/wiki/Surgery\" title=\"Surgery\">",
+        "<a href=\"/wiki/Illness\" class=\"mw-redirect\" title=\"Illness\">",
+        "<a href=\"/wiki/Phytotherapy\" class=\"mw-redirect\" title=\"Phytotherapy\">",
+        "<a href=\"/wiki/Anatomy\" title=\"Anatomy\">"
+      ],
+      "entities": [
+        "Sushruta_Samhita",
+        "Medicine",
+        "India",
+        "Surgery",
+        "Illness",
+        "Phytotherapy",
+        "Anatomy"
+      ],
+      "types": [
+        "literature",
+        "science"
+      ],
+      "date": null
+    },
+    {
+      "year": 501,
+      "text": "Pope Symmachus, accused of various crimes by secular authorities who support an ecclesiastical opponent, asserts that the secular ruler has no jurisdiction over him. A synod held in 502 will confirm that view.",
+      "length": 209,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Pope_Symmachus\" title=\"Pope Symmachus\">Pope Symmachus</a>, accused of various crimes by secular authorities who support an <a href=\"/wiki/Ecclesiology\" title=\"Ecclesiology\">ecclesiastical</a> opponent, asserts that the secular ruler has no jurisdiction over him. A <a href=\"/wiki/Synod\" title=\"Synod\">synod</a> held in <a href=\"/wiki/502\" title=\"502\">502</a> will confirm that view.",
+      "links": [
+        "<a href=\"/wiki/Pope_Symmachus\" title=\"Pope Symmachus\">",
+        "<a href=\"/wiki/Ecclesiology\" title=\"Ecclesiology\">",
+        "<a href=\"/wiki/Synod\" title=\"Synod\">",
+        "<a href=\"/wiki/502\" title=\"502\">"
+      ],
+      "entities": [
+        "Pope_Symmachus",
+        "Ecclesiology",
+        "Synod",
+        "502"
+      ],
+      "types": [
+        "royal",
+        "religious"
+      ],
+      "date": null
+    }
+  ],
+  "births": [
+    {
+      "text": "Lou Zhaojun, empress dowager of Northern Qi (d. 562)",
+      "length": 52,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Empress_Dowager_Lou_Zhaojun\" class=\"mw-redirect\" title=\"Empress Dowager Lou Zhaojun\">Lou Zhaojun</a>, <a href=\"/wiki/Empress_dowager\" title=\"Empress dowager\">empress dowager</a> of <a href=\"/wiki/Northern_Qi\" title=\"Northern Qi\">Northern Qi</a> (d. <a href=\"/wiki/562\" title=\"562\">562</a>)",
+      "name": "Lou Zhaojun"
+    },
+    {
+      "text": "Xiao Tong, crown prince of the Liang Dynasty (d. 531)",
+      "length": 53,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Xiao_Tong\" title=\"Xiao Tong\">Xiao Tong</a>, <a href=\"/wiki/Crown_prince\" title=\"Crown prince\">crown prince</a> of the <a href=\"/wiki/Liang_Dynasty\" class=\"mw-redirect\" title=\"Liang Dynasty\">Liang Dynasty</a> (d. <a href=\"/wiki/531\" title=\"531\">531</a>)",
+      "name": "Xiao Tong"
+    }
+  ],
+  "deaths": [
+    {
+      "text": "April 25 – Rusticus, archbishop of Lyon",
+      "length": 39,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/April_25\" title=\"April 25\">April 25</a> – <a href=\"/wiki/Rusticus_(archbishop_of_Lyon)\" title=\"Rusticus (archbishop of Lyon)\">Rusticus</a>, <a href=\"/wiki/Roman_Catholic_Archdiocese_of_Lyon\" title=\"Roman Catholic Archdiocese of Lyon\">archbishop of Lyon</a>"
+    },
+    {
+      "text": "Dongseong, king of Baekje (Korea)[2]",
+      "length": 36,
+      "references": [
+        "2"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Dongseong_of_Baekje\" title=\"Dongseong of Baekje\">Dongseong</a>, king of <a href=\"/wiki/Baekje\" title=\"Baekje\">Baekje</a> (<a href=\"/wiki/Three_Kingdoms_of_Korea\" title=\"Three Kingdoms of Korea\">Korea</a>)<sup id=\"cite_ref-met_2-1\" class=\"reference\"><a href=\"#cite_note-met-2\">[2]</a></sup>"
+    },
+    {
+      "text": "Fergus Mór, king of Dál Riata (Scotland)",
+      "length": 40,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Fergus_M%C3%B3r\" title=\"Fergus Mór\">Fergus Mór</a>, king of <a href=\"/wiki/D%C3%A1l_Riata\" title=\"Dál Riata\">Dál Riata</a> (<a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>)"
+    },
+    {
+      "text": "Godegisel, king of the Burgundians",
+      "length": 34,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/List_of_Kings_of_Burgundy\" class=\"mw-redirect\" title=\"List of Kings of Burgundy\">Godegisel</a>, king of the <a href=\"/wiki/Kingdom_of_Burgundy\" title=\"Kingdom of Burgundy\">Burgundians</a>"
+    },
+    {
+      "text": "Pan Yunu, concubine of Xiao Baojuan",
+      "length": 35,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Consort_Pan_Yunu\" class=\"mw-redirect\" title=\"Consort Pan Yunu\">Pan Yunu</a>, <a href=\"/wiki/Concubinage\" title=\"Concubinage\">concubine</a> of <a href=\"/wiki/Xiao_Baojuan\" title=\"Xiao Baojuan\">Xiao Baojuan</a>"
+    },
+    {
+      "text": "Ravina II, Jewish Talmudist and rabbi",
+      "length": 37,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Ravina_II\" title=\"Ravina II\">Ravina II</a>, Jewish <a href=\"/wiki/Talmud\" title=\"Talmud\">Talmudist</a> and <a href=\"/wiki/Rabbi\" title=\"Rabbi\">rabbi</a>"
+    },
+    {
+      "text": "Su Xiaoxiao, Chinese courtesan and poet",
+      "length": 39,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Su_Xiaoxiao\" title=\"Su Xiaoxiao\">Su Xiaoxiao</a>, Chinese <a href=\"/wiki/Yiji\" title=\"Yiji\">courtesan</a> and <a href=\"/wiki/Poet\" title=\"Poet\">poet</a>"
+    },
+    {
+      "text": "Xiao Baojuan, emperor of Southern Qi (b. 483)",
+      "length": 45,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Xiao_Baojuan\" title=\"Xiao Baojuan\">Xiao Baojuan</a>, emperor of <a href=\"/wiki/Southern_Qi\" title=\"Southern Qi\">Southern Qi</a> (b. <a href=\"/wiki/483\" title=\"483\">483</a>)"
+    },
+    {
+      "text": "Teudelinda, Burgundian queen consort",
+      "length": 36,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Teudelinda\" title=\"Teudelinda\">Teudelinda</a>, Burgundian queen consort"
+    }
+  ]
+}

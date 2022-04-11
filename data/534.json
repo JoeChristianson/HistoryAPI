@@ -1,0 +1,333 @@
+{
+  "events": [
+    {
+      "year": 534,
+      "text": "January 1 – Decimus Theodorius Paulinus is appointed consul (the last to hold this office in the West).",
+      "length": 103,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/January_1\" title=\"January 1\">January 1</a> – <a href=\"/wiki/List_of_Roman_consuls\" title=\"List of Roman consuls\">Decimus Theodorius Paulinus</a> is appointed <a href=\"/wiki/Roman_consul\" title=\"Roman consul\">consul</a> (the last to hold this office in the West).",
+      "links": [
+        "<a href=\"/wiki/January_1\" title=\"January 1\">",
+        "<a href=\"/wiki/List_of_Roman_consuls\" title=\"List of Roman consuls\">",
+        "<a href=\"/wiki/Roman_consul\" title=\"Roman consul\">"
+      ],
+      "entities": [
+        "January_1",
+        "List_of_Roman_consuls",
+        "Roman_consul"
+      ],
+      "types": [],
+      "date": "January 1 – Decimus Theodorius Paulinus is appointed consul (the last to hold this office in the West)."
+    },
+    {
+      "year": 534,
+      "text": "March – King Gelimer surrenders to Belisarius, after spending a winter in the mountains of Numidia. He and large numbers of captured Vandals are transported to Constantinople. The Vandal Kingdom ends, and the African provinces return to the Byzantine Empire.",
+      "length": 258,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/March\" title=\"March\">March</a> – King <a href=\"/wiki/Gelimer\" title=\"Gelimer\">Gelimer</a> surrenders to <a href=\"/wiki/Belisarius\" title=\"Belisarius\">Belisarius</a>, after spending a winter in the mountains of <a href=\"/wiki/Numidia\" title=\"Numidia\">Numidia</a>. He and large numbers of captured <a href=\"/wiki/Vandals\" title=\"Vandals\">Vandals</a> are transported to <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a>. The <a href=\"/wiki/Vandal_Kingdom\" title=\"Vandal Kingdom\">Vandal Kingdom</a> ends, and the <a href=\"/wiki/North_Africa\" title=\"North Africa\">African</a> provinces return to the <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine Empire</a>.",
+      "links": [
+        "<a href=\"/wiki/March\" title=\"March\">",
+        "<a href=\"/wiki/Gelimer\" title=\"Gelimer\">",
+        "<a href=\"/wiki/Belisarius\" title=\"Belisarius\">",
+        "<a href=\"/wiki/Numidia\" title=\"Numidia\">",
+        "<a href=\"/wiki/Vandals\" title=\"Vandals\">",
+        "<a href=\"/wiki/Constantinople\" title=\"Constantinople\">",
+        "<a href=\"/wiki/Vandal_Kingdom\" title=\"Vandal Kingdom\">",
+        "<a href=\"/wiki/North_Africa\" title=\"North Africa\">",
+        "<a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">"
+      ],
+      "entities": [
+        "March",
+        "Gelimer",
+        "Belisarius",
+        "Numidia",
+        "Vandals",
+        "Constantinople",
+        "Vandal_Kingdom",
+        "North_Africa",
+        "Byzantine_Empire"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": "March – King Gelimer surrenders to Belisarius, after spending a winter in the mountains of Numidia. He and large numbers of captured Vandals are transported to Constantinople. The Vandal Kingdom ends, and the African provinces return to the Byzantine Empire."
+    },
+    {
+      "year": 534,
+      "text": "April – Belisarius leaves a small force in Africa under the Byzantine general Solomon, to continue the subjugation of the province. He is appointed governor (Exarch) and pacifies with success the Moorish tribes. Malta becomes a Byzantine province (until 870).",
+      "length": 259,
+      "references": [],
+      "citationNeeded": false,
+      "html": "April – Belisarius leaves a small force in Africa under the Byzantine general <a href=\"/wiki/Solomon_(magister_militum)\" title=\"Solomon (magister militum)\">Solomon</a>, to continue the subjugation of the province. He is appointed governor (<i><a href=\"/wiki/Exarch\" title=\"Exarch\">Exarch</a></i>) and pacifies with success the <a href=\"/wiki/Moors\" title=\"Moors\">Moorish</a> tribes. <a href=\"/wiki/Malta\" title=\"Malta\">Malta</a> becomes a Byzantine province (until <a href=\"/wiki/870\" title=\"870\">870</a>).",
+      "links": [
+        "<a href=\"/wiki/Solomon_(magister_militum)\" title=\"Solomon (magister militum)\">",
+        "<a href=\"/wiki/Exarch\" title=\"Exarch\">",
+        "<a href=\"/wiki/Moors\" title=\"Moors\">",
+        "<a href=\"/wiki/Malta\" title=\"Malta\">",
+        "<a href=\"/wiki/870\" title=\"870\">"
+      ],
+      "entities": [
+        "Solomon_(magister_militum)",
+        "Exarch",
+        "Moors",
+        "Malta",
+        "870"
+      ],
+      "types": [],
+      "date": null
+    },
+    {
+      "year": 534,
+      "text": "Summer – Belisarius arrives in Constantinople and is permitted by Emperor Justinian I to celebrate a triumph, the first non-imperial triumph for over 500 years. In the procession are paraded the spoils of the Temple of Jerusalem and the Vandal treasure.",
+      "length": 253,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Summer – Belisarius arrives in Constantinople and is permitted by Emperor <a href=\"/wiki/Justinian_I\" title=\"Justinian I\">Justinian I</a> to celebrate a <a href=\"/wiki/Roman_triumph\" title=\"Roman triumph\">triumph</a>, the first non-imperial triumph for over 500 years. In the procession are paraded the spoils of the <a href=\"/wiki/Temple_in_Jerusalem\" title=\"Temple in Jerusalem\">Temple of Jerusalem</a> and the Vandal treasure.",
+      "links": [
+        "<a href=\"/wiki/Justinian_I\" title=\"Justinian I\">",
+        "<a href=\"/wiki/Roman_triumph\" title=\"Roman triumph\">",
+        "<a href=\"/wiki/Temple_in_Jerusalem\" title=\"Temple in Jerusalem\">"
+      ],
+      "entities": [
+        "Justinian_I",
+        "Roman_triumph",
+        "Temple_in_Jerusalem"
+      ],
+      "types": [
+        "royal",
+        "religious"
+      ],
+      "date": null
+    },
+    {
+      "year": 534,
+      "text": "Justinian I commemorates the victory against the Vandals by stamping medals in his honor with the inscription \"Gloria Romanorum\" (approximate date).",
+      "length": 148,
+      "references": [],
+      "citationNeeded": false,
+      "html": "Justinian I commemorates the victory against the Vandals by stamping medals in his honor with the inscription <i>\"Gloria Romanorum\"</i> (approximate date).",
+      "links": [],
+      "entities": [],
+      "types": [],
+      "date": null
+    },
+    {
+      "year": 534,
+      "text": "November 16 – A second and final revision of the Codex Justinianus is published.",
+      "length": 80,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/November_16\" title=\"November 16\">November 16</a> – A second and final revision of the <i><a href=\"/wiki/Corpus_Juris_Civilis\" title=\"Corpus Juris Civilis\">Codex Justinianus</a></i> is published.",
+      "links": [
+        "<a href=\"/wiki/November_16\" title=\"November 16\">",
+        "<a href=\"/wiki/Corpus_Juris_Civilis\" title=\"Corpus Juris Civilis\">"
+      ],
+      "entities": [
+        "November_16",
+        "Corpus_Juris_Civilis"
+      ],
+      "types": [
+        "law"
+      ],
+      "date": null
+    },
+    {
+      "year": 534,
+      "text": "Toledo becomes the capital of the Visigothic Kingdom that controls the Iberian Peninsula. King Theudis expands Visigoth rule in the southern regions (Hispania Baetica).",
+      "length": 168,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Toledo,_Spain\" title=\"Toledo, Spain\">Toledo</a> becomes the capital of the <a href=\"/wiki/Visigothic_Kingdom\" title=\"Visigothic Kingdom\">Visigothic Kingdom</a> that controls the <a href=\"/wiki/Iberian_Peninsula\" title=\"Iberian Peninsula\">Iberian Peninsula</a>. King <a href=\"/wiki/Theudis\" title=\"Theudis\">Theudis</a> expands <a href=\"/wiki/Visigoths\" title=\"Visigoths\">Visigoth</a> rule in the southern regions (<a href=\"/wiki/Hispania_Baetica\" title=\"Hispania Baetica\">Hispania Baetica</a>).",
+      "links": [
+        "<a href=\"/wiki/Toledo,_Spain\" title=\"Toledo, Spain\">",
+        "<a href=\"/wiki/Visigothic_Kingdom\" title=\"Visigothic Kingdom\">",
+        "<a href=\"/wiki/Iberian_Peninsula\" title=\"Iberian Peninsula\">",
+        "<a href=\"/wiki/Theudis\" title=\"Theudis\">",
+        "<a href=\"/wiki/Visigoths\" title=\"Visigoths\">",
+        "<a href=\"/wiki/Hispania_Baetica\" title=\"Hispania Baetica\">"
+      ],
+      "entities": [
+        "Toledo,_Spain",
+        "Visigothic_Kingdom",
+        "Iberian_Peninsula",
+        "Theudis",
+        "Visigoths",
+        "Hispania_Baetica"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 534,
+      "text": "The Frankish kings Childebert I and Chlothar I overthrow Godomar, king of the Burgundians, and end the Kingdom of Burgundy.",
+      "length": 123,
+      "references": [],
+      "citationNeeded": false,
+      "html": "The <a href=\"/wiki/Franks\" title=\"Franks\">Frankish</a> kings <a href=\"/wiki/Childebert_I\" title=\"Childebert I\">Childebert I</a> and <a href=\"/wiki/Chlothar_I\" title=\"Chlothar I\">Chlothar I</a> overthrow <a href=\"/wiki/Godomar\" class=\"mw-redirect\" title=\"Godomar\">Godomar</a>, king of the <a href=\"/wiki/Burgundians\" title=\"Burgundians\">Burgundians</a>, and end the <a href=\"/wiki/Kingdom_of_Burgundy\" title=\"Kingdom of Burgundy\">Kingdom of Burgundy</a>.",
+      "links": [
+        "<a href=\"/wiki/Franks\" title=\"Franks\">",
+        "<a href=\"/wiki/Childebert_I\" title=\"Childebert I\">",
+        "<a href=\"/wiki/Chlothar_I\" title=\"Chlothar I\">",
+        "<a href=\"/wiki/Godomar\" class=\"mw-redirect\" title=\"Godomar\">",
+        "<a href=\"/wiki/Burgundians\" title=\"Burgundians\">",
+        "<a href=\"/wiki/Kingdom_of_Burgundy\" title=\"Kingdom of Burgundy\">"
+      ],
+      "entities": [
+        "Franks",
+        "Childebert_I",
+        "Chlothar_I",
+        "Godomar",
+        "Burgundians",
+        "Kingdom_of_Burgundy"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 534,
+      "text": "Cynric becomes king of Wessex (according to the Anglo-Saxon Chronicle).",
+      "length": 71,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Cynric_of_Wessex\" class=\"mw-redirect\" title=\"Cynric of Wessex\">Cynric</a> becomes king of <a href=\"/wiki/Wessex\" title=\"Wessex\">Wessex</a> (according to the <i><a href=\"/wiki/Anglo-Saxon_Chronicle\" title=\"Anglo-Saxon Chronicle\">Anglo-Saxon Chronicle</a></i>).",
+      "links": [
+        "<a href=\"/wiki/Cynric_of_Wessex\" class=\"mw-redirect\" title=\"Cynric of Wessex\">",
+        "<a href=\"/wiki/Wessex\" title=\"Wessex\">",
+        "<a href=\"/wiki/Anglo-Saxon_Chronicle\" title=\"Anglo-Saxon Chronicle\">"
+      ],
+      "entities": [
+        "Cynric_of_Wessex",
+        "Wessex",
+        "Anglo-Saxon_Chronicle"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    },
+    {
+      "year": 534,
+      "text": "October 2 – King Athalaric dies of tuberculosis, age 18, having dissipated his youth in drink and debauchery. His mother, Amalasuntha, proposes to her cousin Theodahad, the kingdom's largest landowner and her father's last male heir, that he share the throne with her but that he will be king of the Ostrogoths in name only. Theodahad has secret conversations with the Byzantine ambassador, and promises to turn over Tuscany in exchange for a large sum of money, the rank of senator, and permission to live at Constantinople.",
+      "length": 525,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/October_2\" title=\"October 2\">October 2</a> – King <a href=\"/wiki/Athalaric\" title=\"Athalaric\">Athalaric</a> dies of <a href=\"/wiki/Tuberculosis\" title=\"Tuberculosis\">tuberculosis</a>, age 18, having dissipated his youth in drink and debauchery. His mother, <a href=\"/wiki/Amalasuntha\" class=\"mw-redirect\" title=\"Amalasuntha\">Amalasuntha</a>, proposes to her cousin <a href=\"/wiki/Theodahad\" title=\"Theodahad\">Theodahad</a>, the kingdom's largest <a href=\"/wiki/Land_tenure\" title=\"Land tenure\">landowner</a> and her father's last male heir, that he share the <a href=\"/wiki/Throne\" title=\"Throne\">throne</a> with her but that he will be king of the <a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">Ostrogoths</a> in name only. Theodahad has secret conversations with the Byzantine <a href=\"/wiki/Ambassador\" title=\"Ambassador\">ambassador</a>, and promises to turn over <a href=\"/wiki/Tuscany\" title=\"Tuscany\">Tuscany</a> in exchange for a large sum of money, the rank of <a href=\"/wiki/Senate\" title=\"Senate\">senator</a>, and permission to live at Constantinople.",
+      "links": [
+        "<a href=\"/wiki/October_2\" title=\"October 2\">",
+        "<a href=\"/wiki/Athalaric\" title=\"Athalaric\">",
+        "<a href=\"/wiki/Tuberculosis\" title=\"Tuberculosis\">",
+        "<a href=\"/wiki/Amalasuntha\" class=\"mw-redirect\" title=\"Amalasuntha\">",
+        "<a href=\"/wiki/Theodahad\" title=\"Theodahad\">",
+        "<a href=\"/wiki/Land_tenure\" title=\"Land tenure\">",
+        "<a href=\"/wiki/Throne\" title=\"Throne\">",
+        "<a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">",
+        "<a href=\"/wiki/Ambassador\" title=\"Ambassador\">",
+        "<a href=\"/wiki/Tuscany\" title=\"Tuscany\">",
+        "<a href=\"/wiki/Senate\" title=\"Senate\">"
+      ],
+      "entities": [
+        "October_2",
+        "Athalaric",
+        "Tuberculosis",
+        "Amalasuntha",
+        "Theodahad",
+        "Land_tenure",
+        "Throne",
+        "Ostrogoths",
+        "Ambassador",
+        "Tuscany",
+        "Senate"
+      ],
+      "types": [
+        "royal"
+      ],
+      "date": null
+    }
+  ],
+  "births": [
+    {
+      "text": "Leander, bishop of Seville (approximate date)",
+      "length": 45,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Leander_of_Seville\" title=\"Leander of Seville\">Leander</a>, <a href=\"/wiki/Bishop\" title=\"Bishop\">bishop</a> of <a href=\"/wiki/Seville\" title=\"Seville\">Seville</a> (approximate date)",
+      "name": "Leander"
+    },
+    {
+      "text": "Liu Jingyan, empress of the Chen Dynasty (d. 616)",
+      "length": 49,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Empress_Liu_(Chen_dynasty)\" class=\"mw-redirect\" title=\"Empress Liu (Chen dynasty)\">Liu Jingyan</a>, empress of the <a href=\"/wiki/Chen_Dynasty\" class=\"mw-redirect\" title=\"Chen Dynasty\">Chen Dynasty</a> (d. <a href=\"/wiki/616\" title=\"616\">616</a>)",
+      "name": "Liu Jingyan"
+    },
+    {
+      "text": "Ming Di, emperor of the Northern Zhou (d. 560)",
+      "length": 46,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Emperor_Ming_of_Northern_Zhou\" title=\"Emperor Ming of Northern Zhou\">Ming Di</a>, emperor of the <a href=\"/wiki/Northern_Zhou\" title=\"Northern Zhou\">Northern Zhou</a> (d. <a href=\"/wiki/560\" title=\"560\">560</a>)",
+      "name": "Ming Di"
+    },
+    {
+      "text": "Taliesin, Welsh poet (approximate date)",
+      "length": 39,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Taliesin\" title=\"Taliesin\">Taliesin</a>, <a href=\"/wiki/Welsh_language\" title=\"Welsh language\">Welsh</a> poet (approximate date)",
+      "name": "Taliesin"
+    }
+  ],
+  "deaths": [
+    {
+      "text": "October 2 – Athalaric, king of the Ostrogoths",
+      "length": 45,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/October_2\" title=\"October 2\">October 2</a> – <a href=\"/wiki/Athalaric\" title=\"Athalaric\">Athalaric</a>, king of the <a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">Ostrogoths</a>"
+    },
+    {
+      "text": "Anthemius of Tralles, architect and mathematician (approximate date)",
+      "length": 68,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Anthemius_of_Tralles\" title=\"Anthemius of Tralles\">Anthemius of Tralles</a>, <a href=\"/wiki/Architect\" title=\"Architect\">architect</a> and <a href=\"/wiki/Mathematician\" title=\"Mathematician\">mathematician</a> (approximate date)"
+    },
+    {
+      "text": "Cerdic, first king of Wessex[1]",
+      "length": 31,
+      "references": [
+        "1"
+      ],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Cerdic_of_Wessex\" title=\"Cerdic of Wessex\">Cerdic</a>, first king of <a href=\"/wiki/Wessex\" title=\"Wessex\">Wessex</a><sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\">[1]</a></sup>"
+    },
+    {
+      "text": "Godomar, king of Burgundy",
+      "length": 25,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Godomar\" class=\"mw-redirect\" title=\"Godomar\">Godomar</a>, king of <a href=\"/wiki/Kingdom_of_Burgundy\" title=\"Kingdom of Burgundy\">Burgundy</a>"
+    },
+    {
+      "text": "Marcellinus Comes, Latin chronicler (approximate date)",
+      "length": 54,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Marcellinus_Comes\" title=\"Marcellinus Comes\">Marcellinus Comes</a>, Latin <a href=\"/wiki/Chronicle\" title=\"Chronicle\">chronicler</a> (approximate date)"
+    },
+    {
+      "text": "Theuderic I, king of Austrasia (or 533)",
+      "length": 39,
+      "references": [],
+      "citationNeeded": false,
+      "html": "<a href=\"/wiki/Theuderic_I\" title=\"Theuderic I\">Theuderic I</a>, king of <a href=\"/wiki/Austrasia\" title=\"Austrasia\">Austrasia</a> (or <a href=\"/wiki/533\" title=\"533\">533</a>)"
+    }
+  ]
+}
