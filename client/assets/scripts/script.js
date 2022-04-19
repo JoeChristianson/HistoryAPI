@@ -28,8 +28,9 @@ class Game{
 
 
 const getData = async (year)=>{
-    const res = await fetch(`http://localhost:3000/?year=${year}`)
+    const res = await fetch(`http://wiki-events-api.herokuapp.com/?year=${year}`)
     const data = await res.json()
+    console.log(data)
     return data
 }
 
@@ -48,7 +49,7 @@ const renderEvent = async ()=>{
     game.year = Math.floor(Math.random()*1000)+1000;
     const data = await getData(game.year);
     const events = data.events;
-    let randomEvent = data.events[Math.floor(Math.random()*events.length)]
+    let randomEvent = data.events[Math.floor(Math.random()*events.length)].text;
     if (!randomEvent) {
         renderEvent();
         return
