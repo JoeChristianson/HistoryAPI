@@ -41,7 +41,7 @@ server.on("request", async (req,res)=>{
         return;
     }
     if(req.url === "/"){
-        res.end("Specify Year")
+        res.end("Specify Year with /?year={year}, e.g. https://wiki-events-api.herokuapp.com/?year=1776")
     }
     res.writeHeader(200,{'Access-Control-Allow-Origin':'*'})
     console.log("THE URL IS:" + req.url)
